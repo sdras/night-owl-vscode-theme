@@ -1,14 +1,31 @@
-const hello = 'I am never used'
-const templatestringthing = `trying this out ${hello} lala`
+'use strict'
+class Sale {
+  constructor(price) {
+    ;[this.decoratorsList, this.price] = [[], price]
+  }
 
-doesNotExist.nope(`I'm never imported`)
+  decorate(decorator) {
+    if (!Sale[decorator]) throw new Error(`decorator not exist: ${decorator}`)
+    this.decoratorsList.push(Sale[decorator])
+  }
 
-class widget extends React.Component {}
+  getPrice() {
+    for (let decorator of this.decoratorsList) {
+      this.price = decorator(this.price)
+    }
+    return this.price.toFixed(2)
+  }
 
-const joe = function() {}
-const sarah = 100
+  static quebec(price) {
+    return price + price * 7.5 / 100
+  }
 
-function sarah() {}
-const joe = () => {}
+  static fedtax(price) {
+    return price + price * 5 / 100
+  }
+}
 
-console.log(joe, sarah)
+let sale = new Sale(100)
+sale.decorate('fedtax')
+sale.decorate('quebec')
+console.log(sale.getPrice()) //112.88
