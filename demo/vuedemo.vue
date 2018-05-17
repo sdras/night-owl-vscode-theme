@@ -31,11 +31,6 @@ export default {
 button {
   border-radius: 1000px;
   background: red;
-  width: 80px;
-  height: 80px;
-  border: none;
-  outline: 0;
-  cursor: pointer;
   margin-top: 10px;
   transition: 0.3s all ease-out;
 }
