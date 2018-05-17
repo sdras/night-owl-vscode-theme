@@ -1,6 +1,6 @@
 # Night Owl 🌌
 
-> A VS Code theme for the night owls out there. Works well in the daytime, too, but this theme is specially tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness.
+A VS Code theme for the night owls out there. Works well in the daytime, too, but this theme is fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
 ![Preview](preview.png)
 
