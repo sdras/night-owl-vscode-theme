@@ -2,7 +2,7 @@
 
 > A VS Code theme for the night owls out there. Works well in the daytime, too, but this theme is specially tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness.
 
-![Preview](preview.jpg)
+![Preview](preview.png)
 
 # Installation
 
