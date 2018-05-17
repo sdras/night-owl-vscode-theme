@@ -20,3 +20,5 @@ The font in the preview image is Dank Mono, [available here](https://dank.sh/). 
 "editor.fontFamily": "Dank Mono",
 "editor.fontLigatures": true,
 ```
+
+The preview image is using [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer), a really cool extension that highlights matching brackets. This can help reduce unwanted errors.
