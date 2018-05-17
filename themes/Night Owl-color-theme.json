@@ -194,8 +194,9 @@
     "gitDecoration.deletedResourceForeground": "#EF535090",
     "gitDecoration.untrackedResourceForeground": "#a9c77dff",
     "gitDecoration.igno#5f7e97ResourceForeground": "#011627",
-    "gitDecoration.conflictingResourceForeground": "#FFEB95CC",
-    "editorActiveLineNumber.foreground": "#5f7e97"
+    "gitDecoration.conflictingResourceForeground": "#ffeb95cc",
+    "editorActiveLineNumber.foreground": "#5f7e97",
+    "string.quoted.single.js": "#ffffff"
   },
   "tokenColors": [
     {
@@ -224,7 +225,7 @@
       "name": "String Quoted",
       "scope": ["string.quoted", "variable.other.readwrite.js"],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#FFFFFF"
       }
     },
     {

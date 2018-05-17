@@ -1,17 +1,14 @@
-const hello = 'I am never used';
+const hello = 'I am never used'
+const templatestringthing = `trying this out ${hello} lala`
 
-doesNotExist.nope(`I'm never imported`);
+doesNotExist.nope(`I'm never imported`)
 
-class widget extends React.Component { }
+class widget extends React.Component {}
 
-const joe = function () { };
+const joe = function() {}
+const sarah = 100
 
-const wes = 100;
+function sarah() {}
+const joe = () => {}
 
-function wes() {
-
-}
-
-const wes = () => { };
-
-console.log(joe, wes);
+console.log(joe, sarah)

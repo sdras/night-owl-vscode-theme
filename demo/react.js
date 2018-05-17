@@ -1,4 +1,4 @@
-import { Component } from "React";
+import { Component } from 'React'
 
 class Wow extends Component {
   render() {
@@ -6,6 +6,6 @@ class Wow extends Component {
       <div className="wow">
         <input type="number" />
       </div>
-    );
+    )
   }
 }
