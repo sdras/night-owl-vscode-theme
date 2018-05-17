@@ -616,10 +616,10 @@
       }
     },
     {
-      "name": "Variable Property Other",
+      "name": "Variable Property Other object",
       "scope": ["variable.other.object.property"],
       "settings": {
-        "foreground": "#F78C6C",
+        "foreground": "#d7dbe0",
         "fontStyle": "italic"
       }
     },
