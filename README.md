@@ -1,10 +1,8 @@
 # Night Owl
 
-# Night Owl Theme
+> A VS Code theme for the best people
 
-> A theme for the best people
-
-![Preview](images/preview.gif)
+![Preview](preview.jpg)
 
 # Installation
 
