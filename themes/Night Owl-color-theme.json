@@ -339,13 +339,6 @@
       }
     },
     {
-      "name": "Function Parameters",
-      "scope": "variable.parameter",
-      "settings": {
-        "foreground": "#7986E7"
-      }
-    },
-    {
       "name": "Meta Tag",
       "scope": ["punctuation.definition.tag", "meta.tag"],
       "settings": {
@@ -626,7 +619,7 @@
       "name": "Variable Property Other",
       "scope": ["variable.other.object.property"],
       "settings": {
-        "foreground": "#ecc48d",
+        "foreground": "#F78C6C",
         "fontStyle": "italic"
       }
     },
@@ -851,7 +844,7 @@
       ],
       "settings": {
         "foreground": "#ff6363",
-        "fontStyle": None
+        "fontStyle": "None"
       }
     },
     {
@@ -1450,10 +1443,9 @@
     },
     {
       "name": "JavaScript Variable Other ReadWrite",
-      "scope": "variable.other.readwrite.js",
+      "scope": ["variable.other.readwrite.js", "variable.parameter"],
       "settings": {
-        "foreground": "#7986E7",
-        "fontStyle": "italic"
+        "foreground": "#d7dbe0"
       }
     },
     {
@@ -1478,7 +1470,7 @@
         "source.css"
       ],
       "settings": {
-        "fontStyle": None
+        "fontStyle": "None"
       }
     }
   ]
