@@ -30,7 +30,7 @@ export default {
 <style scoped>
 button {
   border-radius: 1000px;
-  background: red;
+  background: teal;
   margin-top: 10px;
   transition: 0.3s all ease-out;
 }
