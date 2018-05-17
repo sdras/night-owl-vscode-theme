@@ -293,14 +293,16 @@
       "name": "Keyword",
       "scope": ["punctuation.accessor", "keyword"],
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#c792ea",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#c792ea",
+        "fontStyle": "italic"
       }
     },
     {
@@ -311,7 +313,8 @@
         "meta.class meta.method.declaration meta.var.expr storage.type.js"
       ],
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#c792ea",
+        "fontStyle": "italic"
       }
     },
     {
@@ -430,21 +433,24 @@
       "name": "Keyword Operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#7fdbca"
+        "foreground": "#7fdbca",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Keyword Operator Relational",
       "scope": "keyword.operator.relational",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#c792ea",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Keyword Operator Assignment",
       "scope": "keyword.operator.assignment",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#c792ea",
+        "fontStyle": "italic"
       }
     },
     {
@@ -479,7 +485,8 @@
       "name": "Meta Delimiter Period",
       "scope": "meta.delimiter.period",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#c792ea",
+        "fontStyle": "italic"
       }
     },
     {
@@ -554,7 +561,8 @@
       "name": "Meta Selector",
       "scope": "meta.selector",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#c792ea",
+        "fontStyle": "italic"
       }
     },
     {
@@ -597,7 +605,8 @@
       "name": "Keyword Operator Logical",
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#c792ea",
+        "fontStyle": "italic"
       }
     },
     {
@@ -617,7 +626,7 @@
       "name": "Variable Property Other",
       "scope": ["variable.other.object.property"],
       "settings": {
-        "foreground": "#F78C6C",
+        "foreground": "#ecc48d",
         "fontStyle": "italic"
       }
     },
@@ -632,7 +641,8 @@
       "name": "Keyword Operator Comparison",
       "scope": "keyword.operator.comparison",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#c792ea",
+        "fontStyle": "italic"
       }
     },
     {
@@ -840,7 +850,8 @@
         "support.constant.property-value.css"
       ],
       "settings": {
-        "foreground": "#ff6363"
+        "foreground": "#ff6363",
+        "fontStyle": None
       }
     },
     {
@@ -864,8 +875,10 @@
     },
     {
       "name": "Attribute Name for CSS",
-      "scope":
+      "scope": [
         "meta.attribute-selector.css entity.other.attribute-name.attribute",
+        "variable.other.readwrite.js"
+      ],
       "settings": {
         "foreground": "#F78C6C"
       }
@@ -918,7 +931,8 @@
       "name": "Elixir Binary Punctuations",
       "scope": "source.elixir .punctuation.binary.elixir",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#c792ea",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1013,13 +1027,6 @@
       "scope": "variable.parameter.function.js",
       "settings": {
         "foreground": "#7986E7"
-      }
-    },
-    {
-      "name": "JavaScript Variable Other ReadWrite",
-      "scope": "variable.other.readwrite.js",
-      "settings": {
-        "foreground": "#d6deeb"
       }
     },
     {
@@ -1442,6 +1449,14 @@
       }
     },
     {
+      "name": "JavaScript Variable Other ReadWrite",
+      "scope": "variable.other.readwrite.js",
+      "settings": {
+        "foreground": "#7986E7",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "normalize font style of certain components",
       "scope": [
         "meta.property-list.css meta.property-value.css variable.other.less",
@@ -1459,10 +1474,11 @@
         "keyword.operator.expression.in",
         "keyword.operator.type",
         "punctuation.definintion.string",
-        "punctuation"
+        "punctuation",
+        "source.css"
       ],
       "settings": {
-        "fontStyle": "normal"
+        "fontStyle": None
       }
     }
   ]
