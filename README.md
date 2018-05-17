@@ -1,6 +1,6 @@
-# Night Owl
+# Night Owl 🌌
 
-> A VS Code theme for the best people
+> A VS Code theme for the night owls out there. Works well in the daytime, too, but this theme is specially tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness.
 
 ![Preview](preview.jpg)
 
@@ -13,3 +13,10 @@
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
 7.  File > Preferences > Color Theme > **Night Owl**
+
+The font in the preview image is Dank Mono, [available here](https://dank.sh/). Editor settings to activate font ligatures:
+
+```
+"editor.fontFamily": "Dank Mono",
+"editor.fontLigatures": true,
+```

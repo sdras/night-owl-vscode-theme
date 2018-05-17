@@ -5,7 +5,7 @@
     "contrastActiveBorder": "#011627",
     "contrastBorder": "#011627",
     "focusBorder": "#011627",
-    "foreground": "#BFC7D5",
+    "foreground": "#d6deeb",
     "widget.shadow": "#011627",
     "selection.background": "#621f81",
     "errorForeground": "#EF5350",
@@ -72,7 +72,7 @@
     "tab.unfocusedActiveForeground": null,
     "tab.unfocusedInactiveForeground": "#011627",
     "editor.background": "#011627",
-    "editor.foreground": "#BFC7D5",
+    "editor.foreground": "#d6deeb",
     "editorLineNumber.foreground": "#224058",
     "editorCursor.foreground": "#7e57c2",
     "editor.selectionBackground": "#1d3b53",
@@ -113,7 +113,7 @@
     "editorWidget.border": null,
     "editorSuggestWidget.background": "#2C3043",
     "editorSuggestWidget.border": "#2B2F40",
-    "editorSuggestWidget.foreground": "#bfc7d5",
+    "editorSuggestWidget.foreground": "#d6deeb",
     "editorSuggestWidget.highlightForeground": "#ffffff",
     "editorSuggestWidget.selectedBackground": "#7e57c2",
     "editorHoverWidget.background": "#011627",
@@ -144,7 +144,7 @@
     "panel.border": "#011627",
     "panelTitle.activeBorder": "#7e57c2",
     "panelTitle.activeForeground": "#5f7e97",
-    "panelTitle.inactiveForeground": "#bfc7d580",
+    "panelTitle.inactiveForeground": "#d6deeb80",
     "statusBar.background": "#011627",
     "statusBar.foreground": "#676E95",
     "statusBar.border": "#262A39",
@@ -196,14 +196,15 @@
     "gitDecoration.igno#5f7e97ResourceForeground": "#011627",
     "gitDecoration.conflictingResourceForeground": "#ffeb95cc",
     "editorActiveLineNumber.foreground": "#5f7e97",
-    "string.quoted.single.js": "#ffffff"
+    "string.quoted.single.js": "#ffffff",
+    "meta.objectliteral.js": "#82AAFF"
   },
   "tokenColors": [
     {
       "name": "Global settings",
       "settings": {
         "background": "#011627",
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -471,7 +472,7 @@
       "name": "Meta Brace",
       "scope": "meta.brace",
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -605,7 +606,8 @@
         "variable.instance",
         "variable.other.instance",
         "variable.reaedwrite.instance",
-        "variable.other.readwrite.instance"
+        "variable.other.readwrite.instance",
+        "variable.other.property"
       ],
       "settings": {
         "foreground": "#7fdbca"
@@ -613,9 +615,10 @@
     },
     {
       "name": "Variable Property Other",
-      "scope": ["variable.other.property", "variable.other.object.property"],
+      "scope": ["variable.other.object.property"],
       "settings": {
-        "foreground": "#7fdbca"
+        "foreground": "#F78C6C",
+        "fontStyle": "italic"
       }
     },
     {
@@ -726,7 +729,7 @@
         "meta.array"
       ],
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -752,7 +755,7 @@
       "name": "Backtics(``) in Template Strings",
       "scope": "string.template punctuation.definition.string",
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -797,7 +800,7 @@
       "name": "CoffeScript Parameter Function",
       "scope": "variable.parameter.function.coffee",
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -811,7 +814,7 @@
       "name": "C# Readwrite Variables",
       "scope": "variable.other.readwrite.cs",
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -966,14 +969,14 @@
       "name": "JavaScript Terminator",
       "scope": "terminator.js",
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
       "name": "JavaScript Meta Punctuation Definition",
       "scope": "meta.js punctuation.definition.js",
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -1002,7 +1005,7 @@
         "meta.export.js variable.other"
       ],
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -1016,7 +1019,7 @@
       "name": "JavaScript Variable Other ReadWrite",
       "scope": "variable.other.readwrite.js",
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -1027,7 +1030,7 @@
         "meta.jsx.children.tsx"
       ],
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -1039,14 +1042,14 @@
         "variable.object.property.jsx"
       ],
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
       "name": "JavaScript Variables",
       "scope": ["variable.js", "variable.other.js"],
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -1060,7 +1063,7 @@
       "name": "JavaScript Support Classes",
       "scope": "support.class.js",
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -1103,7 +1106,7 @@
       "name": "Ruby Variables",
       "scope": "variable.other.ruby",
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -1190,7 +1193,7 @@
         "string.other.link.description.markdown"
       ],
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -1237,7 +1240,7 @@
       "name": "Punctuations in PHP function calls",
       "scope": "meta.function-call.php punctuation",
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -1285,7 +1288,7 @@
       "name": "Punctuations in Python",
       "scope": "punctuation.python",
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -1375,7 +1378,7 @@
         "variable.ts"
       ],
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
@@ -1411,7 +1414,7 @@
         "meta.export.tsx punctuation.definition.block"
       ],
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#d6deeb"
       }
     },
     {
