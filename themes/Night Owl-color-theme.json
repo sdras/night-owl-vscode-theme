@@ -607,7 +607,7 @@
       "scope": [
         "variable.instance",
         "variable.other.instance",
-        "variable.reaedwrite.instance",
+        "variable.readwrite.instance",
         "variable.other.readwrite.instance",
         "variable.other.property"
       ],
