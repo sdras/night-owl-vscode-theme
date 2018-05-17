@@ -2,8 +2,8 @@
   "name": "night-owl",
   "displayName": "Night Owl",
   "description":
-    "A VS Code theme for the night owls out there. Works well in the daytime, too, but this theme is fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
-  "version": "0.1.0",
+    "A VS Code theme for the night owls out there. Works well in the daytime, too. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
+  "version": "0.1.1",
   "publisher": "sdras",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
