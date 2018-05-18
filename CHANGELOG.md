@@ -13,3 +13,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 * Define clarity between active and inactive tabs
 * Make scrollbar visible
 * Make comments more legible
+
+## "0.1.3"
+
+* Update terminal division
