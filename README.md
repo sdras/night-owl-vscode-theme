@@ -29,7 +29,7 @@ I use this setting:
 "bracketPairColorizer.forceIterationColorCycle": true,
 ```
 
-![Bracket1](bracket1.png)
+![Bracket](bracket.png)
 
 This is my first foray into creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/sdras/night-owl-vscode-theme/issues)! I'm sure there are things I missed.
 
