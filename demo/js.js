@@ -17,6 +17,7 @@ class Sale {
   }
 
   static quebec(price) {
+    // this is a comment
     return price + price * 7.5 / 100
   }
 

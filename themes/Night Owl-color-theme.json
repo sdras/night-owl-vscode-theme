@@ -27,10 +27,10 @@
     "inputValidation.infoBorder": "#64B5F6",
     "inputValidation.warningBackground": "#ffca28f2",
     "inputValidation.warningBorder": "#FFCA28",
-    "scrollbar.shadow": "#011627",
-    "scrollbarSlider.activeBackground": "#011627",
-    "scrollbarSlider.background": "#011627",
-    "scrollbarSlider.hoverBackground": "#011627",
+    "scrollbar.shadow": "#010b14",
+    "scrollbarSlider.activeBackground": "#204968",
+    "scrollbarSlider.background": "#204968",
+    "scrollbarSlider.hoverBackground": "#204968",
     "badge.background": "#5f7e97",
     "badge.foreground": "#ffffff",
     "progress.background": "#7e57c2",
@@ -80,7 +80,7 @@
     "editor.inactiveSelectionBackground": "#7e57c25a",
     "editor.wordHighlightBackground": "#32374D",
     "editor.wordHighlightStrongBackground": "#2E3250",
-    "editor.findMatchBackground": "#7e57c25a",
+    "editor.findMatchBackground": "#5f7e97",
     "editor.findMatchHighlightBackground": "#2E3248",
     "editor.findRangeHighlightBackground": null,
     "editor.hoverHighlightBackground": "#7e57c25a",
@@ -92,7 +92,7 @@
     "editorIndentGuide.background": "#011627",
     "editorRuler.foreground": null,
     "editorCodeLens.foreground": "#FFCA28",
-    "editorBracketMatch.background": "#011627",
+    "editorBracketMatch.background": "#5f7e97",
     "editorBracketMatch.border": null,
     "editorOverviewRuler.currentContentForeground": "#7e57c2",
     "editorOverviewRuler.incomingContentForeground": "#7e57c2",
@@ -211,7 +211,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#697098",
+        "foreground": "#637777",
         "fontStyle": "italic"
       }
     },
@@ -450,7 +450,7 @@
       "name": "Double-Slashed Comment",
       "scope": "comment.line.double-slash",
       "settings": {
-        "foreground": "#697098"
+        "foreground": "#637777"
       }
     },
     {
