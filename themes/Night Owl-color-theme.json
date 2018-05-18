@@ -171,7 +171,7 @@
     "pickerGroup.foreground": "#d1aaff",
     "pickerGroup.border": "#011627",
     "terminal.ansiWhite": "#ffffff",
-    "terminal.ansiBlack": "#676E95",
+    "terminal.ansiBlack": "#011627",
     "terminal.ansiBlue": "#82AAFF",
     "terminal.ansiCyan": "#7fdbca",
     "terminal.ansiGreen": "#ba67db",
@@ -179,7 +179,7 @@
     "terminal.ansi#5f7e97": "#7fdbca",
     "terminal.ansiYellow": "#addb67",
     "terminal.ansiBrightWhite": "#ffffff",
-    "terminal.ansiBrightBlack": "#011627",
+    "terminal.ansiBrightBlack": "#575656",
     "terminal.ansiBrightBlue": "#82AAFF",
     "terminal.ansiBrightCyan": "#7fdbca",
     "terminal.ansiBrightGreen": "#addb67",
@@ -1084,7 +1084,7 @@
       "name": "JSON Property values (string)",
       "scope": "meta.structure.dictionary.value.json string.quoted.double",
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#c792ea"
       }
     },
     {
