@@ -21,3 +21,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## "0.1.5"
 
 * Make scrollbar transparent
+
+## "0.1.6"
+
+* Fix terminal blacks
+* Fix inactive tabs when there are two panes
+* Minor tweaks to JSON to match bracket pairs
