@@ -18,6 +18,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 * Update terminal division
 
-## "0.1.4"
+## "0.1.5"
 
 * Make scrollbar transparent
