@@ -7,3 +7,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## "0.1.0"
 
 * Initial release
+
+## "0.1.2"
+
+* Define clarity between active and inactive tabs
+* Make scrollbar visible
+* Make comments more legible
