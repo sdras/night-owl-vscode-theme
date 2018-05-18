@@ -17,3 +17,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## "0.1.3"
 
 * Update terminal division
+
+## "0.1.4"
+
+* Make scrollbar transparent
