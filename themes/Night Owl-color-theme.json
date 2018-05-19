@@ -43,7 +43,7 @@
     "list.hoverBackground": "#011627",
     "list.hoverForeground": "#ffffff",
     "list.inactiveSelectionBackground": "#0e293f",
-    "list.inactiveSelectionForeground": "#d2dee7",
+    "list.inactiveSelectionForeground": "#5f7e97",
     "activityBar.background": "#011627",
     "activityBar.dropBackground": "#5f7e97",
     "activityBar.foreground": "#5f7e97",
@@ -76,11 +76,11 @@
     "editorLineNumber.foreground": "#224058",
     "editorCursor.foreground": "#7e57c2",
     "editor.selectionBackground": "#1d3b53",
-    "editor.selectionHighlightBackground": "#011627",
+    "editor.selectionHighlightBackground": "#5f7e9779",
     "editor.inactiveSelectionBackground": "#7e57c25a",
     "editor.wordHighlightBackground": "#32374D",
     "editor.wordHighlightStrongBackground": "#2E3250",
-    "editor.findMatchBackground": "#5f7e97",
+    "editor.findMatchBackground": "#5f7e9779",
     "editor.findMatchHighlightBackground": "#2E3248",
     "editor.findRangeHighlightBackground": null,
     "editor.hoverHighlightBackground": "#7e57c25a",
@@ -92,7 +92,7 @@
     "editorIndentGuide.background": "#011627",
     "editorRuler.foreground": null,
     "editorCodeLens.foreground": "#FFCA28",
-    "editorBracketMatch.background": "#5f7e97",
+    "editorBracketMatch.background": "#5f7e974d",
     "editorBracketMatch.border": null,
     "editorOverviewRuler.currentContentForeground": "#7e57c2",
     "editorOverviewRuler.incomingContentForeground": "#7e57c2",
@@ -1084,7 +1084,7 @@
       "name": "JSON Property values (string)",
       "scope": "meta.structure.dictionary.value.json string.quoted.double",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#c789d6"
       }
     },
     {
