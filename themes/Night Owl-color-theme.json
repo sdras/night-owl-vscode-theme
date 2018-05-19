@@ -246,7 +246,11 @@
     },
     {
       "name": "Built-in constant",
-      "scope": ["constant.language", "punctuation.definition.constant", "variable.other.constant"],
+      "scope": [
+        "constant.language",
+        "punctuation.definition.constant",
+        "variable.other.constant"
+      ],
       "settings": {
         "foreground": "#82AAFF"
       }
@@ -296,7 +300,11 @@
     },
     {
       "name": "Storage",
-      "scope": ["storage", "meta.var.expr", "meta.class meta.method.declaration meta.var.expr storage.type.js"],
+      "scope": [
+        "storage",
+        "meta.var.expr",
+        "meta.class meta.method.declaration meta.var.expr storage.type.js"
+      ],
       "settings": {
         "foreground": "#c792ea",
         "fontStyle": "italic"
@@ -426,7 +434,7 @@
       "scope": "keyword.operator",
       "settings": {
         "foreground": "#7fdbca",
-        "fontStyle": "italic"
+        "fontStyle": "None"
       }
     },
     {
@@ -441,8 +449,7 @@
       "name": "Keyword Operator Assignment",
       "scope": "keyword.operator.assignment",
       "settings": {
-        "foreground": "#c792ea",
-        "fontStyle": "italic"
+        "foreground": "#c792ea"
       }
     },
     {
@@ -639,7 +646,11 @@
     },
     {
       "name": "Support Constant, `new` keyword, Special Method Keyword",
-      "scope": ["support.constant", "keyword.other.special-method", "keyword.other.new"],
+      "scope": [
+        "support.constant",
+        "keyword.other.special-method",
+        "keyword.other.new"
+      ],
       "settings": {
         "foreground": "#7fdbca"
       }
@@ -863,14 +874,20 @@
     },
     {
       "name": "Attribute Name for CSS",
-      "scope": ["meta.attribute-selector.css entity.other.attribute-name.attribute", "variable.other.readwrite.js"],
+      "scope": [
+        "meta.attribute-selector.css entity.other.attribute-name.attribute",
+        "variable.other.readwrite.js"
+      ],
       "settings": {
         "foreground": "#F78C6C"
       }
     },
     {
       "name": "Elixir Classes",
-      "scope": ["source.elixir support.type.elixir", "source.elixir meta.module.elixir entity.name.class.elixir"],
+      "scope": [
+        "source.elixir support.type.elixir",
+        "source.elixir meta.module.elixir entity.name.class.elixir"
+      ],
       "settings": {
         "foreground": "#82AAFF"
       }
@@ -884,7 +901,10 @@
     },
     {
       "name": "Elixir Constants",
-      "scope": ["source.elixir constant.other.symbol.elixir", "source.elixir constant.other.keywords.elixir"],
+      "scope": [
+        "source.elixir constant.other.symbol.elixir",
+        "source.elixir constant.other.keywords.elixir"
+      ],
       "settings": {
         "foreground": "#82AAFF"
       }
@@ -974,7 +994,10 @@
     },
     {
       "name": "Entity Names in Code Documentations",
-      "scope": ["entity.name.type.instance.jsdoc", "entity.name.type.instance.phpdoc"],
+      "scope": [
+        "entity.name.type.instance.jsdoc",
+        "entity.name.type.instance.phpdoc"
+      ],
       "settings": {
         "foreground": "#5f7e97"
       }
@@ -1007,7 +1030,11 @@
     },
     {
       "name": "Text nested in React tags",
-      "scope": ["meta.jsx.children", "meta.jsx.children.js", "meta.jsx.children.tsx"],
+      "scope": [
+        "meta.jsx.children",
+        "meta.jsx.children.js",
+        "meta.jsx.children.tsx"
+      ],
       "settings": {
         "foreground": "#d6deeb"
       }
@@ -1075,16 +1102,24 @@
     },
     {
       "name": "Specific JSON Property values like null",
-      "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
+      "scope":
+        "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
       "settings": {
         "foreground": "#ff5874"
       }
     },
     {
       "name": "Ruby Variables",
-      "scope": "variable.other.ruby",
+      "scope": ["variable.other.ruby"],
       "settings": {
         "foreground": "#d6deeb"
+      }
+    },
+    {
+      "name": "Ruby Class",
+      "scope": ["entity.name.type.class.ruby"],
+      "settings": {
+        "foreground": "#ecc48d"
       }
     },
     {
@@ -1110,7 +1145,8 @@
     },
     {
       "name": "Attribute Name for LESS",
-      "scope": "meta.attribute-selector.less entity.other.attribute-name.attribute",
+      "scope":
+        "meta.attribute-selector.less entity.other.attribute-name.attribute",
       "settings": {
         "foreground": "#F78C6C"
       }
@@ -1155,14 +1191,20 @@
     },
     {
       "name": "Markdown Links",
-      "scope": ["markup.underline.link.markdown", "markup.underline.link.image.markdown"],
+      "scope": [
+        "markup.underline.link.markdown",
+        "markup.underline.link.image.markdown"
+      ],
       "settings": {
         "foreground": "#ff869a"
       }
     },
     {
       "name": "Markdown Link Title and Description",
-      "scope": ["string.other.link.title.markdown", "string.other.link.description.markdown"],
+      "scope": [
+        "string.other.link.title.markdown",
+        "string.other.link.description.markdown"
+      ],
       "settings": {
         "foreground": "#d6deeb"
       }
@@ -1237,14 +1279,20 @@
     },
     {
       "name": "Python Function Parameter and Arguments",
-      "scope": ["variable.parameter.function.python", "meta.function-call.arguments.python"],
+      "scope": [
+        "variable.parameter.function.python",
+        "meta.function-call.arguments.python"
+      ],
       "settings": {
         "foreground": "#7986E7"
       }
     },
     {
       "name": "Python Function Call",
-      "scope": ["meta.function-call.python", "meta.function-call.generic.python"],
+      "scope": [
+        "meta.function-call.python",
+        "meta.function-call.generic.python"
+      ],
       "settings": {
         "foreground": "#B2CCD6"
       }
@@ -1272,21 +1320,32 @@
     },
     {
       "name": "SCSS Variable",
-      "scope": ["variable.scss", "variable.sass", "variable.parameter.url.scss", "variable.parameter.url.sass"],
+      "scope": [
+        "variable.scss",
+        "variable.sass",
+        "variable.parameter.url.scss",
+        "variable.parameter.url.sass"
+      ],
       "settings": {
         "foreground": "#DDDDDD"
       }
     },
     {
       "name": "Variables in SASS At-Rules",
-      "scope": ["source.css.scss meta.at-rule variable", "source.css.sass meta.at-rule variable"],
+      "scope": [
+        "source.css.scss meta.at-rule variable",
+        "source.css.sass meta.at-rule variable"
+      ],
       "settings": {
         "foreground": "#82AAFF"
       }
     },
     {
       "name": "Variables in SASS At-Rules",
-      "scope": ["source.css.scss meta.at-rule variable", "source.css.sass meta.at-rule variable"],
+      "scope": [
+        "source.css.scss meta.at-rule variable",
+        "source.css.sass meta.at-rule variable"
+      ],
       "settings": {
         "foreground": "#bec5d4"
       }
@@ -1351,7 +1410,10 @@
     },
     {
       "name": "TypeScript[React] Entity Name Types as Parameters",
-      "scope": ["meta.type.parameters.ts entity.name.type", "meta.type.parameters.tsx entity.name.type"],
+      "scope": [
+        "meta.type.parameters.ts entity.name.type",
+        "meta.type.parameters.tsx entity.name.type"
+      ],
       "settings": {
         "foreground": "#5f7e97"
       }
@@ -1370,7 +1432,10 @@
     },
     {
       "name": "TypeScript[React] Punctuation Decorators",
-      "scope": ["meta.decorator punctuation.decorator.ts", "meta.decorator punctuation.decorator.tsx"],
+      "scope": [
+        "meta.decorator punctuation.decorator.ts",
+        "meta.decorator punctuation.decorator.tsx"
+      ],
       "settings": {
         "foreground": "#82AAFF"
       }
