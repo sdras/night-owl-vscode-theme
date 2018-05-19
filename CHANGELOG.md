@@ -27,3 +27,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 * Fix terminal blacks
 * Fix inactive tabs when there are two panes
 * Minor tweaks to JSON to match bracket pairs
+
+## "0.1.7"
+
+* Make .gitignored files have less contrast
+* Make modified files a bright blue instead of bright yellow
+* Fix similar keyword highlight for some files
+* Function arrows no longer italicized
+* Codelense highlight not as distracting
