@@ -45,7 +45,7 @@ If you wish to disable italics in this theme, you can add this to your user sett
           "comment",
           "variable.other.object.property",
           "keyword.operator",
-          "keyword.operator.logical"
+          "keyword.operator.logical",
           "keyword",
           "entity.name.function",
           "string.quoted",
