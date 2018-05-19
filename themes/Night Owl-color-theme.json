@@ -241,7 +241,8 @@
       "name": "Number",
       "scope": ["constant.numeric", "constant.character.numeric"],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#F78C6C",
+        "fontStyle": ""
       }
     },
     {
@@ -321,7 +322,7 @@
       "name": "Storage type",
       "scope": "storage.type.function.arrow.js",
       "settings": {
-        "fontStyle": "None"
+        "fontStyle": ""
       }
     },
     {
@@ -342,7 +343,8 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#82AAFF",
+        "fontStyle": ""
       }
     },
     {
@@ -367,7 +369,8 @@
         "meta.tag.html"
       ],
       "settings": {
-        "foreground": "#7fdbca"
+        "foreground": "#7fdbca",
+        "fontStyle": ""
       }
     },
     {
@@ -434,7 +437,7 @@
       "scope": "keyword.operator",
       "settings": {
         "foreground": "#7fdbca",
-        "fontStyle": "None"
+        "fontStyle": ""
       }
     },
     {
@@ -513,7 +516,8 @@
       "name": "Variable Parameter Function",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#7fdbca"
+        "foreground": "#7fdbca",
+        "fontStyle": ""
       }
     },
     {
@@ -525,7 +529,8 @@
         "meta.property-list entity.name.tag"
       ],
       "settings": {
-        "foreground": "#80CBC4"
+        "foreground": "#80CBC4",
+        "fontStyle": ""
       }
     },
     {
@@ -622,7 +627,7 @@
       }
     },
     {
-      "name": "Variable Property Other object",
+      "name": "Variable Property Other object property",
       "scope": ["variable.other.object.property"],
       "settings": {
         "foreground": "#d7dbe0",
@@ -630,10 +635,18 @@
       }
     },
     {
-      "name": "Entity Name Function",
-      "scope": "entity.name.function",
+      "name": "Variable Property Other object",
+      "scope": ["variable.other.object.js"],
       "settings": {
-        "foreground": "#82AAFF"
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Entity Name Function",
+      "scope": ["entity.name.function"],
+      "settings": {
+        "foreground": "#82AAFF",
+        "fontStyle": ""
       }
     },
     {
@@ -850,7 +863,7 @@
       ],
       "settings": {
         "foreground": "#ff6363",
-        "fontStyle": "None"
+        "fontStyle": ""
       }
     },
     {
@@ -1062,7 +1075,8 @@
       "name": "JavaScript Entity Name Type",
       "scope": ["entity.name.type.js", "entity.name.type.module.js"],
       "settings": {
-        "foreground": "#ffcb8b"
+        "foreground": "#ffcb8b",
+        "fontStyle": ""
       }
     },
     {
@@ -1483,7 +1497,7 @@
         "source.css"
       ],
       "settings": {
-        "fontStyle": "None"
+        "fontStyle": ""
       }
     }
   ]
