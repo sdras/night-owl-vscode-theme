@@ -14,6 +14,8 @@ A VS Code theme for the night owls out there. Works well in the daytime, too, bu
 6.  Click **Reload** to reload the Code
 7.  File > Preferences > Color Theme > **Night Owl**
 
+## Preferences shown in the preview
+
 The font in the preview image is Dank Mono, [available here](https://dank.sh/). Editor settings to activate font ligatures:
 
 ```
@@ -30,6 +32,51 @@ I use this setting:
 ```
 
 ![Bracket](bracket.png)
+
+## Disable Italics
+
+If you wish to disable italics in this theme, you can add this to your user settings:
+
+```
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment",
+          "variable.other.object.property",
+          "keyword.operator",
+          "keyword.operator.logical"
+          "keyword",
+          "entity.name.function",
+          "string.quoted",
+          "support.function",
+          "punctuation.accessor",
+          "source.js",
+          "meta.block.js",
+          "meta.var.expr",
+          "entity.other.attribute-name",
+          "meta.class meta.method.declaration meta.var.expr storage.type.js",
+          "keyword.operator.relational",
+          "keyword.operator.assignment",
+          "meta.delimiter.period",
+          "meta.selector",
+          "entity.name.tag.doctype",
+          "meta.tag.sgml.doctype",
+          "variable.other.property",
+          "variable.other.object.property",
+          "italic",
+          "quote",
+          "source.elixir .punctuation.binary.elixir",
+          "meta.tag.sgml.doctype.html",
+          "markup.italic.markdown"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  }
+```
 
 This is my first foray into creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/sdras/night-owl-vscode-theme/issues)! I'm sure there are things I missed.
 
