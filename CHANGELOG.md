@@ -18,7 +18,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 * Update terminal division
 
-## "0.1.5"
+## "0.1.4 / 0.1.5"
 
 * Make scrollbar transparent
 
@@ -35,3 +35,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 * Fix similar keyword highlight for some files
 * Function arrows no longer italicized
 * Codelense highlight not as distracting
+
+## "0.1.8"
+
+* Fix overuse of italics
+* Fix bug in prompts
+* Update Ruby highlighting
