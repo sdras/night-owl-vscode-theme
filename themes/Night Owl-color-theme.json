@@ -91,7 +91,7 @@
     "editorWhitespace.foreground": null,
     "editorIndentGuide.background": "#011627",
     "editorRuler.foreground": null,
-    "editorCodeLens.foreground": "#FFCA28",
+    "editorCodeLens.foreground": "#5e82ceb4",
     "editorBracketMatch.background": "#5f7e974d",
     "editorBracketMatch.border": null,
     "editorOverviewRuler.currentContentForeground": "#7e57c2",
@@ -299,7 +299,11 @@
     },
     {
       "name": "Storage",
-      "scope": "storage",
+      "scope": [
+        "storage",
+        "meta.var.expr",
+        "meta.class meta.method.declaration meta.var.expr storage.type.js"
+      ],
       "settings": {
         "foreground": "#c792ea",
         "fontStyle": "italic"
@@ -307,14 +311,16 @@
     },
     {
       "name": "Storage type",
-      "scope": [
-        "storage.type",
-        "meta.var.expr storage.type",
-        "meta.class meta.method.declaration meta.var.expr storage.type.js"
-      ],
+      "scope": "storage.type",
       "settings": {
-        "foreground": "#c792ea",
-        "fontStyle": "italic"
+        "foreground": "#c792ea"
+      }
+    },
+    {
+      "name": "Storage type",
+      "scope": "storage.type.function.arrow.js",
+      "settings": {
+        "fontStyle": "None"
       }
     },
     {
