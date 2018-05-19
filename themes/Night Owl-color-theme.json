@@ -100,7 +100,7 @@
     "editorOverviewRuler.commonContentForeground": "#7e57c2",
     "editorError.foreground": "#EF5350",
     "editorError.border": null,
-    "editorWarning.foreground": "#FFCA28",
+    "editorWarning.foreground": "#b39554",
     "editorWarning.border": null,
     "editorGutter.background": "#011627",
     "editorGutter.modifiedBackground": "#e2b93d",
