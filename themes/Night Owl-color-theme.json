@@ -130,7 +130,7 @@
     "peekViewResult.background": "#011627",
     "peekViewResult.fileForeground": "#5f7e97",
     "peekViewResult.lineForeground": "#5f7e97",
-    "peekViewResult.matchHighlightBackground": "#5f7e97",
+    "peekViewResult.matchHighlightBackground": "#ffffffcc",
     "peekViewResult.selectionBackground": "#2E3250",
     "peekViewResult.selectionForeground": "#5f7e97",
     "peekViewTitle.background": "#011627",
