@@ -18,7 +18,7 @@
     "input.background": "#0b253a",
     "input.border": "#5f7e97",
     "input.foreground": "#ffffffcc",
-    "input.placeholderForeground": "#ffffffcc",
+    "input.placeholderForeground": "#5f7e97",
     "inputOption.activeBorder": "#ffffffcc",
     "punctuation.definition.generic.begin.html": "#ef5350f2",
     "inputValidation.errorBackground": "#ef5350f2",
