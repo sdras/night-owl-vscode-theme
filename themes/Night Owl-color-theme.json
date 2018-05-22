@@ -456,6 +456,34 @@
       }
     },
     {
+      "name": "Keyword Operator Arithmetic",
+      "scope": "keyword.operator.arithmetic",
+      "settings": {
+        "foreground": "#c792ea"
+      }
+    },
+    {
+      "name": "Keyword Operator Bitwise",
+      "scope": "keyword.operator.bitwise",
+      "settings": {
+        "foreground": "#c792ea"
+      }
+    },
+    {
+      "name": "Keyword Operator Increment",
+      "scope": "keyword.operator.increment",
+      "settings": {
+        "foreground": "#c792ea"
+      }
+    },
+    {
+      "name": "Keyword Operator Ternary",
+      "scope": "keyword.operator.ternary",
+      "settings": {
+        "foreground": "#c792ea"
+      }
+    },
+    {
       "name": "Double-Slashed Comment",
       "scope": "comment.line.double-slash",
       "settings": {
@@ -1481,13 +1509,6 @@
         "meta.property-list.css meta.property-value.css variable.other.less",
         "meta.property-list.scss variable.scss",
         "meta.property-list.sass variable.sass",
-        "keyword.operator.logical",
-        "keyword.operator.arithmetic",
-        "keyword.operator.bitwise",
-        "keyword.operator.increment",
-        "keyword.operator.ternary",
-        "keyword.operator.comparison",
-        "keyword.operator.assignment",
         "keyword.operator.operator",
         "keyword.operator.or.regexp",
         "keyword.operator.expression.in",
