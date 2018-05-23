@@ -1517,13 +1517,16 @@
         "meta.property-list.css meta.property-value.css variable.other.less",
         "meta.property-list.scss variable.scss",
         "meta.property-list.sass variable.sass",
+        "meta.brace",
         "keyword.operator.operator",
         "keyword.operator.or.regexp",
         "keyword.operator.expression.in",
         "keyword.operator.type",
         "punctuation.definintion.string",
         "punctuation",
-        "source.css"
+        "variable.other.readwrite.js",
+        "source.css",
+        "string.quoted"
       ],
       "settings": {
         "fontStyle": ""
