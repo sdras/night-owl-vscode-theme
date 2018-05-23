@@ -51,3 +51,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 * Fix block scope/editor indent lack of border
 * Operator color continuity
 * Fix peek result color contrast
+
+## "0.2.1"
+
+* Revert activity bar background change
