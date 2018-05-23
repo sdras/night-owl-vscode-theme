@@ -41,3 +41,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 * Fix overuse of italics
 * Fix bug in prompts
 * Update Ruby highlighting
+
+## "0.2.0"
+
+* Fix more overuse of italics
+* Section highlight and placeholder fixes
+* More contrast for React component tags
+* Fix top bar color
+* Fix block scope/editor indent lack of border
+* Operator color continuity
+* Fix peek result color contrast
