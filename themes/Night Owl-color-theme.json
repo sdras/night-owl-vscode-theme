@@ -357,7 +357,7 @@
     {
       "name": "HTML Tag names",
       "scope": [
-        "entity.name.tag support.class.component",
+        "entity.name.tag",
         "meta.tag.other.html",
         "meta.tag.other.js",
         "meta.tag.other.tsx",
@@ -638,7 +638,7 @@
       "scope": "keyword.operator.logical",
       "settings": {
         "foreground": "#c792ea",
-        "fontStyle": "italic"
+        "fontStyle": ""
       }
     },
     {
@@ -1501,6 +1501,14 @@
       "scope": ["variable.other.readwrite.js", "variable.parameter"],
       "settings": {
         "foreground": "#d7dbe0"
+      }
+    },
+    {
+      "name": "Support Class Component",
+      "scope": ["support.class.component.js", "meta.jsx.children.js"],
+      "settings": {
+        "foreground": "#f78c6c",
+        "fontStyle": ""
       }
     },
     {
