@@ -55,3 +55,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## "0.2.1"
 
 * Revert activity bar background change
+
+## "0.2.2"
+
+* Update terminal colors for testing
