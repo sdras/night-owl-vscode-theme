@@ -175,7 +175,7 @@
     "terminal.ansiBlack": "#011627",
     "terminal.ansiBlue": "#82AAFF",
     "terminal.ansiCyan": "#21c7a8",
-    "terminal.ansiGreen": "#0b9243",
+    "terminal.ansiGreen": "#22da6e",
     "terminal.ansiMagenta": "#C792EA",
     "terminal.ansiRed": "#EF5350",
     "terminal.ansiYellow": "#addb67",
@@ -183,7 +183,7 @@
     "terminal.ansiBrightBlack": "#575656",
     "terminal.ansiBrightBlue": "#82AAFF",
     "terminal.ansiBrightCyan": "#7fdbca",
-    "terminal.ansiBrightGreen": "#11a54f",
+    "terminal.ansiBrightGreen": "#22da6e",
     "terminal.ansiBrightMagenta": "#C792EA",
     "terminal.ansiBrightRed": "#EF5350",
     "terminal.ansiBrightYellow": "#ffeb95",
@@ -1326,7 +1326,7 @@
         "meta.function-call.arguments.python"
       ],
       "settings": {
-        "foreground": "#7986E7"
+        "foreground": "#82AAFF"
       }
     },
     {
@@ -1525,6 +1525,7 @@
         "punctuation.definintion.string",
         "punctuation",
         "variable.other.readwrite.js",
+        "storage.type",
         "source.css",
         "string.quoted"
       ],
