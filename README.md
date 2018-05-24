@@ -44,9 +44,6 @@ If you wish to disable italics in this theme, you can add this to your user sett
         "scope": [
           "comment",
           "variable.other.object.property",
-          "keyword.operator",
-          "keyword.operator.logical",
-          "keyword",
           "entity.name.function",
           "string.quoted",
           "support.function",
@@ -56,8 +53,6 @@ If you wish to disable italics in this theme, you can add this to your user sett
           "meta.var.expr",
           "entity.other.attribute-name",
           "meta.class meta.method.declaration meta.var.expr storage.type.js",
-          "keyword.operator.relational",
-          "keyword.operator.assignment",
           "meta.delimiter.period",
           "meta.selector",
           "entity.name.tag.doctype",
