@@ -1016,7 +1016,17 @@
       "scope": "meta.method.declaration storage.type.js",
       "settings": {
         "foreground": "#82AAFF",
-        "fontStyle": "normal"
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Object Member",
+      "scope": [
+        "meta.object.member.ts",
+        "meta.object.member.js"
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {
