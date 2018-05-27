@@ -2,6 +2,12 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "0.2.6"
+
+* Register italic alternate in package.json
+* Fix editor ruler color
+* More consistent italic in different scope
+
 ## "0.2.5"
 
 * Update the inactive titlebar to be the same color as inactive tab
