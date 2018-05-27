@@ -32,34 +32,3 @@ sale.decorate('quebec')
 console.log(sale.getPrice()) //112.88
 
 getPrice()
-
-//deeply nested
-
-const thingie = {
-  nested: {
-    supernested: {
-      pureInception() {
-        debugger
-        return this
-      }
-    }
-  }
-}
-
-switch (expression) {
-  case n:
-    code block
-    break;
-  case n:
-    code block
-    break;
-  default:
-    code block
-}
-
-try {
-  adddlert("Welcome guest!");
-}
-catch (err) {
-  document.getElementById("demo").innerHTML = err.message;
-}
