@@ -14,6 +14,23 @@ A VS Code theme for the night owls out there. Works well in the daytime, too, bu
 6.  Click **Reload** to reload the Code
 7.  File > Preferences > Color Theme > **Night Owl**
 
+## Disable Italics
+
+If you wish to disable italics, there is now a no-italic theme available. You will have access to both, select **Night Owl No Italics** as your color theme.
+
+## Separate the Editor from the Sidebar
+
+I tried my best with this theme to use contrast sparingly so that it's more meaningful, to reduce noise and improve your ability to scan. However, some of the decisions may not work for everyone in every scenario. One such decision that some disagree on is whether or not to have a separation between the editor and sidebar. If you wish for this to have more visual signifigance, please paste this into your user settings preferences. These are my recommendations for these settings but you can use whatever colors you wish. ☺️
+
+```
+"workbench.colorCustomizations": {
+  "activityBar.background": "#000C1D",
+  "activityBar.border": "#102a44",
+  "sideBar.background": "#001122",
+  "sideBar.border": "#102a44",
+},
+```
+
 ## Preferences shown in the preview
 
 The font in the preview image is Dank Mono, [available here](https://dank.sh/). Editor settings to activate font ligatures:
@@ -33,45 +50,7 @@ I use this setting:
 
 ![Bracket](bracket.png)
 
-## Disable Italics
-
-If you wish to disable italics in this theme, you can add this to your user settings:
-
-```
-"editor.tokenColorCustomizations": {
-    "textMateRules": [
-      {
-        "scope": [
-          "comment",
-          "variable.other.object.property",
-          "entity.name.function",
-          "string.quoted",
-          "support.function",
-          "punctuation.accessor",
-          "source.js",
-          "meta.block.js",
-          "meta.var.expr",
-          "entity.other.attribute-name",
-          "meta.class meta.method.declaration meta.var.expr storage.type.js",
-          "meta.delimiter.period",
-          "meta.selector",
-          "entity.name.tag.doctype",
-          "meta.tag.sgml.doctype",
-          "variable.other.property",
-          "variable.other.object.property",
-          "italic",
-          "quote",
-          "source.elixir .punctuation.binary.elixir",
-          "meta.tag.sgml.doctype.html",
-          "markup.italic.markdown"
-        ],
-        "settings": {
-          "fontStyle": ""
-        }
-      }
-    ]
-  }
-```
+## Misc
 
 This is my first foray into creating a theme, so if you see something amiss, please feel free to [file an issue](https://github.com/sdras/night-owl-vscode-theme/issues)! I'm sure there are things I missed.
 
