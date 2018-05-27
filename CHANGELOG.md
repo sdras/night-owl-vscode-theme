@@ -2,6 +2,10 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "0.3.1"
+
+* Return conditionals to their original state so that they don't stand out so much
+
 ## "0.3.0"
 
 * Do a ton of keyword refinements, mainly across JavaScript and Ruby
