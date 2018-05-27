@@ -682,6 +682,7 @@
       "name":
         "Keyword Operator Comparison, returns, imports, and Keyword Operator Ruby",
       "scope": [
+        "keyword.control.conditional.js",
         "keyword.operator.comparison",
         "keyword.control.flow.js",
         "keyword.control.ruby",

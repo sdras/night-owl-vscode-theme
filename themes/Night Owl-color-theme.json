@@ -696,6 +696,14 @@
       }
     },
     {
+      "name": "Keyword Control Conditional",
+      "scope": ["keyword.control.conditional.js"],
+      "settings": {
+        "foreground": "#c792ea",
+        "fontStyle": ""
+      }
+    },
+    {
       "name":
         "Support Constant, `new` keyword, Special Method Keyword, `debugger`, other keywords",
       "scope": [

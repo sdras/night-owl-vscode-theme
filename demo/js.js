@@ -32,3 +32,5 @@ sale.decorate('quebec')
 console.log(sale.getPrice()) //112.88
 
 getPrice()
+
+//deeply nested
