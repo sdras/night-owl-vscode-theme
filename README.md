@@ -20,7 +20,7 @@ If you wish to disable italics, there is now a no-italic theme available. You wi
 
 ## Separate the Editor from the Sidebar
 
-I tried my best with this theme to use contrast sparingly so that it's more meaningful, to reduce noise and improve your ability to scan. However, some of the decisions may not work for everyone in every scenario. One such decision that some disagree on is whether or not to have a separation between the editor and sidebar. If you wish for this to have more visual signifigance, please paste this into your user settings preferences. These are my recommendations for these settings but you can use whatever colors you wish. ☺️
+This theme uses contrast sparingly so that when it's applied, it's more meaningful. This can help reduce noise and improve your ability to scan. However, some of the decisions may not work for everyone. One such decision that some disagree on is whether or not to have a separation between the editor and sidebar. If you wish for this to have more visual signifigance, please paste this into your user settings preferences. These are my recommendations for these settings but you can use whatever colors you wish. ☺️
 
 ```
 "workbench.colorCustomizations": {

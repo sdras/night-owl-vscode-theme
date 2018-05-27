@@ -679,19 +679,31 @@
       }
     },
     {
-      "name": "Keyword Operator Comparison",
-      "scope": "keyword.operator.comparison",
+      "name":
+        "Keyword Operator Comparison, imports, returns and Keyword Operator Ruby",
+      "scope": [
+        "keyword.operator.comparison",
+        "keyword.control.flow.js",
+        "keyword.control.ruby",
+        "keyword.control.def.ruby",
+        "keyword.control.loop.js",
+        "keyword.control.import.js",
+        "keyword.control.from.js"
+      ],
       "settings": {
         "foreground": "#c792ea",
         "fontStyle": "italic"
       }
     },
     {
-      "name": "Support Constant, `new` keyword, Special Method Keyword",
+      "name":
+        "Support Constant, `new` keyword, Special Method Keyword, `debugger`, other keywords",
       "scope": [
         "support.constant",
         "keyword.other.special-method",
-        "keyword.other.new"
+        "keyword.other.new",
+        "keyword.other.debugger",
+        "keyword.control"
       ],
       "settings": {
         "foreground": "#7fdbca"
@@ -1017,16 +1029,6 @@
       "scope": "meta.method.declaration storage.type.js",
       "settings": {
         "foreground": "#82AAFF",
-        "fontStyle": ""
-      }
-    },
-    {
-      "name": "Object Member",
-      "scope": [
-        "meta.object.member.ts",
-        "meta.object.member.js"
-      ],
-      "settings": {
         "fontStyle": ""
       }
     },
