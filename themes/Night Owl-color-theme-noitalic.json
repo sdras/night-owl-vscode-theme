@@ -214,7 +214,7 @@
       "scope": "comment",
       "settings": {
         "foreground": "#637777",
-        "fontStyle": ""
+        "fontStyle": "italic"
       }
     },
     {

@@ -6,6 +6,7 @@ All notable changes to the "night-owl" extension are be documented in this file.
 
 * Update the inactive titlebar to be the same color as inactive tab
 * Match the html in React to regular HTML
+* Start creating a no italics theme
 
 ## "0.2.4"
 
