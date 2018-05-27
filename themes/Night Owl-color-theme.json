@@ -161,7 +161,7 @@
     "statusBarItem.prominentHoverBackground": "#202431",
     "titleBar.activeBackground": "#011627",
     "titleBar.activeForeground": "#eeefff",
-    "titleBar.inactiveBackground": "#000a11",
+    "titleBar.inactiveBackground": "#010e1a",
     "titleBar.inactiveForeground": null,
     "notifications.background": "#011627",
     "notifications.foreground": "#ffffffcc",
@@ -197,6 +197,7 @@
     "gitDecoration.ignoredResourceForeground": "#395a75",
     "gitDecoration.conflictingResourceForeground": "#ffeb95cc",
     "editorActiveLineNumber.foreground": "#5f7e97",
+    "source.elm": "#5f7e97",
     "string.quoted.single.js": "#ffffff",
     "meta.objectliteral.js": "#82AAFF"
   },
@@ -1070,17 +1071,6 @@
       }
     },
     {
-      "name": "Text nested in React tags",
-      "scope": [
-        "meta.jsx.children",
-        "meta.jsx.children.js",
-        "meta.jsx.children.tsx"
-      ],
-      "settings": {
-        "foreground": "#d6deeb"
-      }
-    },
-    {
       "name": "JavaScript[React] Variable Other Object",
       "scope": [
         "variable.other.object.js",
@@ -1505,10 +1495,21 @@
     },
     {
       "name": "Support Class Component",
-      "scope": ["support.class.component.js", "meta.jsx.children.js"],
+      "scope": "support.class.component.js",
       "settings": {
         "foreground": "#f78c6c",
         "fontStyle": ""
+      }
+    },
+    {
+      "name": "Text nested in React tags",
+      "scope": [
+        "meta.jsx.children",
+        "meta.jsx.children.js",
+        "meta.jsx.children.tsx"
+      ],
+      "settings": {
+        "foreground": "#d6deeb"
       }
     },
     {

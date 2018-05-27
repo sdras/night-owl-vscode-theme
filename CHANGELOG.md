@@ -1,8 +1,11 @@
 # Change Log
 
-All notable changes to the "night-owl" extension will be documented in this file.
+All notable changes to the "night-owl" extension are be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## "0.2.5"
+
+* Update the inactive titlebar to be the same color as inactive tab
+* Match the html in React to regular HTML
 
 ## "0.2.4"
 
