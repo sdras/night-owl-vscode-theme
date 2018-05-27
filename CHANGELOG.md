@@ -2,6 +2,10 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "0.3.0"
+
+* Do a ton of keyword refinements, mainly across JavaScript and Ruby
+
 ## "0.2.6"
 
 * Register italic alternate in package.json
