@@ -1289,7 +1289,10 @@
     },
     {
       "name": "PHP Variables",
-      "scope": "variable.other.php",
+      "scope": [
+        "variable.other.php",
+        "variable.other.property.php"
+      ],
       "settings": {
         "foreground": "#bec5d4"
       }
