@@ -74,7 +74,8 @@
     "tab.unfocusedInactiveForeground": "#5f7e97",
     "editor.background": "#011627",
     "editor.foreground": "#d6deeb",
-    "editorLineNumber.foreground": "#224058",
+    "editorLineNumber.foreground": "#5f7e97",
+    "editorLineNumber.activeForeground": "#C5E4FD",
     "editorCursor.foreground": "#7e57c2",
     "editor.selectionBackground": "#1d3b53",
     "editor.selectionHighlightBackground": "#5f7e9779",
@@ -196,7 +197,6 @@
     "gitDecoration.untrackedResourceForeground": "#addb67ff",
     "gitDecoration.ignoredResourceForeground": "#395a75",
     "gitDecoration.conflictingResourceForeground": "#ffeb95cc",
-    "editorActiveLineNumber.foreground": "#5f7e97",
     "source.elm": "#5f7e97",
     "string.quoted.single.js": "#ffffff",
     "meta.objectliteral.js": "#82AAFF"
