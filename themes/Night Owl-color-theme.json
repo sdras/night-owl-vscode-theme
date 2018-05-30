@@ -203,6 +203,35 @@
   },
   "tokenColors": [
     {
+      "name": "Changed",
+      "scope": [
+        "markup.changed",
+        "meta.diff.header.git",
+        "meta.diff.header.from-file",
+        "meta.diff.header.to-file"
+      ],
+      "settings": {
+        "foreground": "#a2bffc",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Deleted",
+      "scope": "markup.deleted.diff",
+      "settings": {
+        "foreground": "#EF535090",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Inserted",
+      "scope": "markup.inserted.diff",
+      "settings": {
+        "foreground": "#addb67ff",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Global settings",
       "settings": {
         "background": "#011627",
