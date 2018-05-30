@@ -688,7 +688,9 @@
         "keyword.control.ruby",
         "keyword.control.def.ruby",
         "keyword.control.import.js",
-        "keyword.control.from.js"
+        "keyword.control.import.ts",
+        "keyword.control.from.js",
+        "keyword.control.from.ts"
       ],
       "settings": {
         "foreground": "#c792ea",
