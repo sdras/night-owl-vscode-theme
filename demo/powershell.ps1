@@ -47,6 +47,20 @@ try {
     #Calling some other scripts. Sometimes its nice to have a "master" script and call subscripts with other functions / actions
     .\otherscript.ps1 "Parameter ?"
     .\thisonewithoutparams.ps1
+
+    #little bit of SharePoint *the original issue* :D
+    $web = Get-SPWeb http://mysharepointsite
+    $list = $web.Lists["ListName"]
+    $query = New-Object Microsoft.SharePoint.SPQuery
+    $query.Query= "CAMLQuery here"
+    $query.ViewFields= "<FieldRef Name='ID'/><FieldRef Name='Title'/>"
+    $query.ViewFieldsOnly= $true
+    $listitems = $list.GetItems($query);
+    foreach($item in $listitems) {
+      if($item -ne $null) {
+        Write-Host "There is an elmeent in the list, id" $item.ID
+      }
+    }
 }
 catch {
     Write-Host -ForegroundColor Red "Exception Type: $($_.Exception.GetType().FullName)"
