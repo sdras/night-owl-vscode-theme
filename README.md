@@ -12,7 +12,7 @@ A VS Code theme for the night owls out there. Works well in the daytime, too, bu
 4.  Search for `night-owl-vscode-theme`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
-7.  File > Preferences > Color Theme > **Night Owl**
+7.  From the menu bar click: Code > Preferences > Color Theme > **Night Owl**
 
 ## Disable Italics
 
