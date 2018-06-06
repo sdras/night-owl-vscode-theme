@@ -74,7 +74,7 @@
     "tab.unfocusedInactiveForeground": "#5f7e97",
     "editor.background": "#011627",
     "editor.foreground": "#d6deeb",
-    "editorLineNumber.foreground": "#5f7e97",
+    "editorLineNumber.foreground": "#4b6479",
     "editorLineNumber.activeForeground": "#C5E4FD",
     "editorCursor.foreground": "#7e57c2",
     "editor.selectionBackground": "#1d3b53",
@@ -581,8 +581,8 @@
     {
       "name": "Support Type Property Name & entity name tags",
       "scope": [
-        "support.type.vendo#5f7e97.property-name",
-        "support.constant.vendo#5f7e97.property-value",
+        "support.type.vendor.property-name",
+        "support.constant.vendor.property-value",
         "support.type.property-name",
         "meta.property-list entity.name.tag"
       ],
@@ -1320,10 +1320,7 @@
     },
     {
       "name": "PHP Variables",
-      "scope": [
-        "variable.other.php",
-        "variable.other.property.php"
-      ],
+      "scope": ["variable.other.php", "variable.other.property.php"],
       "settings": {
         "foreground": "#bec5d4"
       }
