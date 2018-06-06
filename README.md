@@ -18,9 +18,21 @@ A VS Code theme for the night owls out there. Works well in the daytime, too, bu
 
 If you wish to disable italics, there is now a no-italic theme available. You will have access to both, select **Night Owl No Italics** as your color theme.
 
+## Other versions of this Theme
+
+The community is awesome and has ported this theme over to other environments
+
+- Hyper: [https://github.com/pbomb/hyper-night-owl](https://github.com/pbomb/hyper-night-owl)
+- iTerm2
+  1.  [https://github.com/nickcernis/iterm2-night-owl](https://github.com/nickcernis/iterm2-night-owl)
+  2.  [https://github.com/jsit/night-owl-iterm2-theme](https://github.com/jsit/night-owl-iterm2-theme)
+  3.  [https://github.com/florianeckerstorfer/night-owl-itermcolors](https://github.com/florianeckerstorfer/night-owl-itermcolors)
+- Atom: [https://atom.io/themes/night-owl-vs-code-syntax](https://atom.io/themes/night-owl-vs-code-syntax)
+- Jetbrains: [https://github.com/xdrop/night-owl-jetbrains](https://github.com/xdrop/night-owl-jetbrains)
+
 ## Separate the Editor from the Sidebar
 
-This theme uses contrast sparingly so that when it's applied, it's more meaningful. This can help reduce noise and improve your ability to scan. However, some of the decisions may not work for everyone. One such decision that some disagree on is whether or not to have a separation between the editor and sidebar. If you wish for this to have more visual signifigance, please paste this into your user settings preferences. These are my recommendations for these settings but you can use whatever colors you wish. ☺️
+This theme uses contrast sparingly so that when it's applied, it's more meaningful. This can help reduce noise and improve your ability to scan. However, some of the decisions may not work for everyone. One such decision that some disagree on is whether or not to have a separation between the editor and sidebar, and the amount of contrast. If you wish for this to have more visual signifigance, please paste this into your user settings preferences. These are my recommendations for these settings but you can use whatever colors you wish. ☺️
 
 ```
 "workbench.colorCustomizations": {
@@ -28,6 +40,7 @@ This theme uses contrast sparingly so that when it's applied, it's more meaningf
   "activityBar.border": "#102a44",
   "sideBar.background": "#001122",
   "sideBar.border": "#102a44",
+  "sideBar.foreground": "#8BADC1"
 },
 ```
 
