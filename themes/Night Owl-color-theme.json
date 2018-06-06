@@ -38,7 +38,7 @@
     "list.activeSelectionForeground": "#ffffff",
     "list.invalidItemForeground": "#975f94",
     "list.dropBackground": "#011627",
-    "list.focusBackground": "#5f7e9700",
+    "list.focusBackground": "#010d18",
     "list.focusForeground": "#ffffff",
     "list.highlightForeground": "#ffffff",
     "list.hoverBackground": "#011627",
@@ -49,7 +49,7 @@
     "activityBar.dropBackground": "#5f7e97",
     "activityBar.foreground": "#5f7e97",
     "activityBar.border": "#011627",
-    "activityBarBadge.background": "#5f7e97",
+    "activityBarBadge.background": "#44596b",
     "activityBarBadge.foreground": "#ffffff",
     "sideBar.background": "#011627",
     "sideBar.foreground": "#5f7e97",
@@ -74,7 +74,7 @@
     "tab.unfocusedInactiveForeground": "#5f7e97",
     "editor.background": "#011627",
     "editor.foreground": "#d6deeb",
-    "editorLineNumber.foreground": "#5f7e97",
+    "editorLineNumber.foreground": "#4b6479",
     "editorLineNumber.activeForeground": "#C5E4FD",
     "editorCursor.foreground": "#7e57c2",
     "editor.selectionBackground": "#1d3b53",
@@ -581,8 +581,8 @@
     {
       "name": "Support Type Property Name & entity name tags",
       "scope": [
-        "support.type.vendo#5f7e97.property-name",
-        "support.constant.vendo#5f7e97.property-value",
+        "support.type.vendor.property-name",
+        "support.constant.vendor.property-value",
         "support.type.property-name",
         "meta.property-list entity.name.tag"
       ],
@@ -1320,10 +1320,7 @@
     },
     {
       "name": "PHP Variables",
-      "scope": [
-        "variable.other.php",
-        "variable.other.property.php"
-      ],
+      "scope": ["variable.other.php", "variable.other.property.php"],
       "settings": {
         "foreground": "#bec5d4"
       }
@@ -1413,7 +1410,7 @@
         "variable.parameter.url.sass"
       ],
       "settings": {
-        "foreground": "#DDDDDD"
+        "foreground": "#addb67"
       }
     },
     {
