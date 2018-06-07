@@ -714,6 +714,7 @@
         "keyword.operator.comparison",
         "keyword.control.flow.js",
         "keyword.control.ruby",
+        "keyword.control.module.ruby",
         "keyword.control.class.ruby",
         "keyword.control.def.ruby",
         "keyword.control.loop.js",
