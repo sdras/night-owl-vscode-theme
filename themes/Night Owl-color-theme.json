@@ -720,8 +720,10 @@
         "keyword.control.loop.js",
         "keyword.control.import.js",
         "keyword.control.import.ts",
+        "keyword.control.import.tsx",
         "keyword.control.from.js",
-        "keyword.control.from.ts"
+        "keyword.control.from.ts",
+        "keyword.control.from.tsx"
       ],
       "settings": {
         "foreground": "#c792ea",
