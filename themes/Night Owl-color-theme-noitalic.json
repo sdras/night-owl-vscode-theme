@@ -1609,7 +1609,7 @@
     },
     {
       "name": "Support Class Component",
-      "scope": "support.class.component.js",
+      "scope": ["support.class.component.js", "support.class.component.tsx"],
       "settings": {
         "foreground": "#f78c6c",
         "fontStyle": ""
@@ -1641,6 +1641,13 @@
       ],
       "settings": {
         "foreground": "#ffcb8b"
+      }
+    },
+    {
+      "name": "TypeScript Method Declaration e.g. `constructor`",
+      "scope": "meta.method.declaration storage.type.tsx",
+      "settings": {
+        "foreground": "#82AAFF"
       }
     },
     {

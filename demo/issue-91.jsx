@@ -1,13 +1,29 @@
-import * as React from 'react';
+import React from 'react'
+import calculate from '../logic/calculate'
+import './App.css'
+import ButtonPanel from './ButtonPanel'
+import Display from './Display'
 
-class Dashboard extends React.Component {
-  public render() {
+class App extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      total: null
+    }
+  }
+
+  handleClick = buttonName => {
+    this.setState(calculate(this.state, buttonName))
+  }
+
+  render() {
     return (
-      <div>
-        Dashboard
+      <div className="component-app">
+        Tacos
+        <Display value={this.state.next || this.state.total || '0'} />
+        <ButtonPanel clickHandler={this.handleClick} />
       </div>
-    );
+    )
   }
 }
-
-export default Dashboard;
+export default App
