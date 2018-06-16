@@ -750,6 +750,7 @@
         "keyword.control.conditional.js",
         "keyword.operator.comparison",
         "keyword.control.flow.js",
+        "keyword.control.flow.tsx",
         "keyword.control.ruby",
         "keyword.control.def.ruby",
         "keyword.control.import.js",
@@ -1623,6 +1624,23 @@
       ],
       "settings": {
         "foreground": "#d6deeb"
+      }
+    },
+    {
+      "name": "TypeScript Classes",
+      "scope": "meta.class entity.name.type.class.tsx",
+      "settings": {
+        "foreground": "#ffcb8b"
+      }
+    },
+    {
+      "name": "TypeScript Entity Name Type",
+      "scope": [
+        "entity.name.type.tsx",
+        "entity.name.type.module.tsx"
+      ],
+      "settings": {
+        "foreground": "#ffcb8b"
       }
     },
     {
