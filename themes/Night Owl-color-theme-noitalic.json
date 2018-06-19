@@ -378,7 +378,7 @@
         "meta.class entity.name.type.class"
       ],
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#ffcb8b"
       }
     },
     {
@@ -1098,7 +1098,7 @@
     },
     {
       "name": "JavaScript Method Declaration e.g. `constructor`",
-      "scope": "meta.method.declaration storage.type.js",
+      "scope": ["meta.method.declaration storage.type.js", "storage.type"],
       "settings": {
         "foreground": "#82AAFF",
         "fontStyle": ""
@@ -1538,7 +1538,7 @@
         "entity.name.type.tsx"
       ],
       "settings": {
-        "foreground": "#78ccf0"
+        "foreground": "#ffcb8b"
       }
     },
     {
