@@ -2,6 +2,13 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "0.4.0"
+
+- Make cursor more visible
+- Added basic react in TS support
+- Fix ts and js differences
+- Lighter color for active indent guide
+
 ## "0.3.2"
 
 - Fix scss/sass variables
