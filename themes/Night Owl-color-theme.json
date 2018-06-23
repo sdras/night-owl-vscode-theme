@@ -60,7 +60,7 @@
     "editorGroup.background": "#32374C",
     "editorGroup.border": "#011627",
     "editorGroup.dropBackground": "#7e57c273",
-    "editorGroupHeader.noTabsBackground": "#32374C",
+    "editorGroupHeader.noTabsBackground": "#011627",
     "editorGroupHeader.tabsBackground": "#011627",
     "editorGroupHeader.tabsBorder": "#262A39",
     "tab.activeBackground": "#0b2942",
