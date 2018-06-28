@@ -335,7 +335,10 @@
       "scope": [
         "storage",
         "meta.var.expr",
-        "meta.class meta.method.declaration meta.var.expr storage.type.js"
+        "meta.class meta.method.declaration meta.var.expr storage.type.js",
+        "storage.type.property.js",
+        "storage.type.property.ts",
+        "storage.type.property.tsx"
       ],
       "settings": {
         "foreground": "#c792ea",
@@ -346,7 +349,7 @@
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#82AAFF"
       }
     },
     {
@@ -1061,10 +1064,9 @@
     },
     {
       "name": "JavaScript Method Declaration e.g. `constructor`",
-      "scope": ["meta.method.declaration storage.type.js", "storage.type"],
+      "scope": "meta.method.declaration storage.type.js",
       "settings": {
-        "foreground": "#82AAFF",
-        "fontStyle": ""
+        "foreground": "#82AAFF"
       }
     },
     {
@@ -1575,7 +1577,10 @@
     },
     {
       "name": "TypeScript Method Declaration e.g. `constructor`",
-      "scope": "meta.method.declaration storage.type.tsx",
+      "scope": [
+        "meta.method.declaration storage.type.ts",
+        "meta.method.declaration storage.type.tsx"
+      ],
       "settings": {
         "foreground": "#82AAFF"
       }
