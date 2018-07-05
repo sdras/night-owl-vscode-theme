@@ -32,6 +32,7 @@ The community is awesome and has ported this theme over to other environments
 - Jetbrains: [https://github.com/xdrop/night-owl-jetbrains](https://github.com/xdrop/night-owl-jetbrains)
 - Emacs: [https://github.com/aaronjensen/night-owl-emacs](https://github.com/aaronjensen/night-owl-emacs)
 - Vim [https://github.com/Khaledgarbaya/night-owl-vim-theme](https://github.com/Khaledgarbaya/night-owl-vim-theme)
+- Pygments [https://github.com/liamdawson/nightowl-pygments-style](https://github.com/liamdawson/nightowl-pygments-style)
 
 ## Separate the Editor from the Sidebar
 
