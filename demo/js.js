@@ -34,3 +34,22 @@ console.log(sale.getPrice()) //112.88
 getPrice()
 
 //deeply nested
+
+async function asyncCall() {
+  var result = await resolveAfter2Seconds();
+}
+
+for (let i=0; i <10; i++) {
+  continue;
+}
+
+if (true) {}
+
+while (true) {}
+
+switch(2) {
+  case 2:
+    break;
+  default:
+    break;
+}

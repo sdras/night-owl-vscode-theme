@@ -717,12 +717,14 @@
       "scope": [
         "keyword.operator.comparison",
         "keyword.control.flow.js",
+        "keyword.control.flow.ts",
         "keyword.control.flow.tsx",
         "keyword.control.ruby",
         "keyword.control.module.ruby",
         "keyword.control.class.ruby",
         "keyword.control.def.ruby",
         "keyword.control.loop.js",
+        "keyword.control.loop.ts",
         "keyword.control.import.js",
         "keyword.control.import.ts",
         "keyword.control.import.tsx",
@@ -737,7 +739,12 @@
     },
     {
       "name": "Keyword Control Conditional",
-      "scope": ["keyword.control.conditional.js"],
+      "scope": [
+        "keyword.control.conditional.js",
+        "keyword.control.conditional.ts",
+        "keyword.control.switch.js",
+        "keyword.control.switch.ts"
+      ],
       "settings": {
         "foreground": "#c792ea",
         "fontStyle": ""
