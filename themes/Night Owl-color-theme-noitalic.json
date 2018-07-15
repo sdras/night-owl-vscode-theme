@@ -146,7 +146,7 @@
     "panel.background": "#011627",
     "panel.border": "#5f7e97",
     "panelTitle.activeBorder": "#5f7e97",
-    "panelTitle.activeForeground": "#5f7e97",
+    "panelTitle.activeForeground": "#ffffffcc",
     "panelTitle.inactiveForeground": "#d6deeb80",
     "statusBar.background": "#011627",
     "statusBar.foreground": "#676E95",
