@@ -718,15 +718,22 @@
         "keyword.control.conditional.js",
         "keyword.operator.comparison",
         "keyword.control.flow.js",
+        "keyword.control.flow.ts",
         "keyword.control.flow.tsx",
         "keyword.control.ruby",
         "keyword.control.def.ruby",
+        "keyword.control.loop.js",
+        "keyword.control.loop.ts",
         "keyword.control.import.js",
         "keyword.control.import.ts",
         "keyword.control.import.tsx",
         "keyword.control.from.js",
         "keyword.control.from.ts",
-        "keyword.control.from.tsx"
+        "keyword.control.from.tsx",
+        "keyword.control.conditional.js",
+        "keyword.control.conditional.ts",
+        "keyword.control.switch.js",
+        "keyword.control.switch.ts"
       ],
       "settings": {
         "foreground": "#c792ea",
