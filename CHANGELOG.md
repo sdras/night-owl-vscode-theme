@@ -2,6 +2,11 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "0.4.1"
+
+- Improved TypeScript support
+- Changed active panel coloring
+
 ## "0.4.0"
 
 - Make cursor more visible
