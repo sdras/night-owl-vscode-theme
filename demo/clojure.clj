@@ -8,6 +8,9 @@
 (defn print-name [{:keys [first last age]}]
   (println (str "Your name is " first " " last " and you are " age " years old.")))
 
+(defn set-age [person new-age]
+  (assoc person :age new-age))
+
 (defn hello-world []
   (let [john {:first "John" :last "Smith" :age 65}
         jack {:first "Jack" :last "Road" :age 76}
