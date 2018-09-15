@@ -40,6 +40,9 @@ The community is awesome and has ported this theme over to other environments
   1. [https://github.com/Khaledgarbaya/night-owl-vim-theme](https://github.com/Khaledgarbaya/night-owl-vim-theme)
   2. [https://github.com/haishanh/night-owl.vim](https://github.com/haishanh/night-owl.vim)
 - Pygments [https://github.com/liamdawson/nightowl-pygments-style](https://github.com/liamdawson/nightowl-pygments-style)
+- TextMate [https://github.com/batpigandme/night-owlish](https://github.com/batpigandme/night-owlish/tree/master/tmTheme)
+- Ace Editor [https://github.com/batpigandme/night-owlish](https://github.com/batpigandme/night-owlish/tree/master/aceTheme)
+- RStudio [https://github.com/batpigandme/night-owlish](https://github.com/batpigandme/night-owlish/tree/master/rstheme)
 
 ## Separate the Editor from the Sidebar
 
