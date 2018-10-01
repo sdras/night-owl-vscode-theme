@@ -1670,8 +1670,7 @@
       "name": "C/C++ Functions",
       "scope": [
         "meta.function-call.c",
-        "entity.name.function.preprocessor.c",
-        "entity.name.function.c"
+        "entity.name.function.preprocessor.c"
       ],
       "settings": {
         "foreground": "#d6deebff"
