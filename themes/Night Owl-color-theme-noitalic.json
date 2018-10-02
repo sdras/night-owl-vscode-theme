@@ -1659,8 +1659,14 @@
         "keyword.cpp",
         "keyword.control.c",
         "keyword.control.cpp",
+        "keyword.control.directive.conditional.c",
+        "keyword.control.directive.undef.c",
+        "keyword.control.directive.define.c",
+        "keyword.control.directive.pragma.c",
         "keyword.control.directive.include.c",
-        "keyword.control.directive.define.c"
+        "keyword.control.directive.line.c",
+        "keyword.control.directive.diagnostic.error.c",
+        "keyword.control.directive.diagnostic.warning.c"
       ],
       "settings": {
         "foreground": "#c792eaff"
