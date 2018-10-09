@@ -1658,6 +1658,46 @@
       "settings": {
         "fontStyle": ""
       }
+    },
+    {
+      "name": "C/C++ Keywords",
+      "scope": [
+        "keyword.c",
+        "keyword.cpp",
+        "keyword.control.c",
+        "keyword.control.cpp",
+        "keyword.control.directive.conditional.c",
+        "keyword.control.directive.undef.c",
+        "keyword.control.directive.define.c",
+        "keyword.control.directive.pragma.c",
+        "keyword.control.directive.include.c",
+        "keyword.control.directive.line.c",
+        "keyword.control.directive.diagnostic.error.c",
+        "keyword.control.directive.diagnostic.warning.c"
+      ],
+      "settings": {
+        "foreground": "#c792eaff"
+      }
+    },
+    {
+      "name": "C/C++ Functions",
+      "scope": [
+        "meta.function-call.c",
+        "entity.name.function.preprocessor.c"
+      ],
+      "settings": {
+        "foreground": "#d6deebff"
+      }
+    },
+    {
+      "name": "C/C++ Include Strings",
+      "scope": [
+        "punctuation.definition.string.begin.c",
+        "punctuation.definition.string.end.c"
+      ],
+      "settings": {
+        "foreground": "#ecc48dff"
+      }
     }
   ]
 }
