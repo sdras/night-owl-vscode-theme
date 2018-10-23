@@ -1262,6 +1262,13 @@
       }
     },
     {
+      "name": "Ruby Symbols",
+      "scope": "constant.language.symbol.ruby",
+      "settings": {
+        "foreground": "#7fdbca"
+      }
+    },
+    {
       "name": "LESS Tag names",
       "scope": "entity.name.tag.less",
       "settings": {
