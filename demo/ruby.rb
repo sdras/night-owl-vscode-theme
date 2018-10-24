@@ -29,6 +29,13 @@ module ExampleModule
     end
 
     private_class_method :private
+
+    private
+
+    def user_params
+      params.require(:user).permit(:username, :email, :password)
+      params.pluck(:user)
+    end
   end
 end
 
