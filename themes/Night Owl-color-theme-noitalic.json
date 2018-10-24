@@ -217,7 +217,6 @@
       ],
       "settings": {
         "foreground": "#a2bffc",
-        "fontStyle": "italic"
       }
     },
     {
@@ -225,7 +224,6 @@
       "scope": "markup.deleted.diff",
       "settings": {
         "foreground": "#EF535090",
-        "fontStyle": "italic"
       }
     },
     {
@@ -233,7 +231,6 @@
       "scope": "markup.inserted.diff",
       "settings": {
         "foreground": "#addb67ff",
-        "fontStyle": "italic"
       }
     },
     {
