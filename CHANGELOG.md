@@ -2,6 +2,13 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "0.4.2"
+
+- Update warn widget color
+- Fix misnamed theme
+- Remove italics from git diff in no italics theme
+- Add symbol highlighting
+
 ## "0.4.1"
 
 - Improved TypeScript support
