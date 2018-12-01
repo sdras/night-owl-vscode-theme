@@ -2,6 +2,10 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "0.4.3"
+
+- Update README: vs code => visual studio code
+
 ## "0.4.2"
 
 - Update warn widget color
