@@ -381,7 +381,7 @@
       "scope": "entity.name.function",
       "settings": {
         "foreground": "#DCDCAA",
-        "fontStyle": ""
+        "fontStyle": "italic"
       }
     },
     {
@@ -711,7 +711,7 @@
       "scope": ["entity.name.function"],
       "settings": {
         "foreground": "#DCDCAA",
-        "fontStyle": ""
+        "fontStyle": "italic"
       }
     },
     {
