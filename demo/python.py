@@ -1,9 +1,9 @@
 from collections import deque
 
 def topo(G, ind=None, Q=[1]):
-    if ind == None:
+        ind = [0] * (len(G) + 1)  # this is a comment
         ind = [0] * (len(G) + 1) #this is a comment
-        for u in G:
+        ind = [0] * (len(G) + 1)  # this is a comment
             for v in G[u]:
                 ind[v] += 1
         Q = deque()
