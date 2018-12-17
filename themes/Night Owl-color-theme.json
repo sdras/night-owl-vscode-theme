@@ -206,8 +206,7 @@
     "string.quoted.single.js": "#ffffff",
     "meta.objectliteral.js": "#82AAFF"
   },
-  "tokenColors": [
-    {
+  "tokenColors": [{
       "name": "Changed",
       "scope": [
         "markup.changed",
@@ -381,8 +380,8 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#82AAFF",
-        "fontStyle": ""
+        "foreground": "#DCDCAA",
+        "fontStyle": "italic"
       }
     },
     {
@@ -711,13 +710,12 @@
       "name": "Entity Name Function",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#82AAFF",
-        "fontStyle": ""
+        "foreground": "#DCDCAA",
+        "fontStyle": "italic"
       }
     },
     {
-      "name":
-        "Keyword Operator Comparison, imports, returns and Keyword Operator Ruby",
+      "name": "Keyword Operator Comparison, imports, returns and Keyword Operator Ruby",
       "scope": [
         "keyword.operator.comparison",
         "keyword.control.flow.js",
@@ -755,8 +753,7 @@
       }
     },
     {
-      "name":
-        "Support Constant, `new` keyword, Special Method Keyword, `debugger`, other keywords",
+      "name": "Support Constant, `new` keyword, Special Method Keyword, `debugger`, other keywords",
       "scope": [
         "support.constant",
         "keyword.other.special-method",
@@ -1234,8 +1231,7 @@
     },
     {
       "name": "Specific JSON Property values like null",
-      "scope":
-        "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
+      "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
       "settings": {
         "foreground": "#ff5874"
       }
@@ -1284,8 +1280,7 @@
     },
     {
       "name": "Attribute Name for LESS",
-      "scope":
-        "meta.attribute-selector.less entity.other.attribute-name.attribute",
+      "scope": "meta.attribute-selector.less entity.other.attribute-name.attribute",
       "settings": {
         "foreground": "#F78C6C"
       }
@@ -1462,6 +1457,13 @@
       "scope": "source.python variable.language.special",
       "settings": {
         "foreground": "#8EACE3"
+      }
+    },
+    {
+      "name": "Python import control keyword",
+      "scope": "keyword.control",
+      "settings": {
+        "foreground": "#c792ea"
       }
     },
     {
