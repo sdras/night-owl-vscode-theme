@@ -45,6 +45,7 @@ The community is awesome and has ported this theme over to other environments
 - Ace Editor [https://github.com/batpigandme/night-owlish](https://github.com/batpigandme/night-owlish/tree/master/aceTheme)
 - RStudio [https://github.com/batpigandme/night-owlish](https://github.com/batpigandme/night-owlish/tree/master/rstheme)
 - Insomnia [https://github.com/yoannfleurydev/insomnia-plugin-night-owl-theme](https://github.com/yoannfleurydev/insomnia-plugin-night-owl-theme)
+- Sublime Text 3 [https://github.com/VonHeikemen/night-owl-sublime-scheme](https://github.com/VonHeikemen/night-owl-sublime-scheme)
 
 ## Separate the Editor from the Sidebar
 
