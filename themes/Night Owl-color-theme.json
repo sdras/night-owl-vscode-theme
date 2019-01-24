@@ -57,12 +57,12 @@
     "activityBarBadge.foreground": "#ffffff",
     "sideBar.background": "#011627",
     "sideBar.foreground": "#5f7e97",
-    "sideBar.border": "#011627",
+    "sideBar.border": "#5f7e97",
     "sideBarTitle.foreground": "#5f7e97",
     "sideBarSectionHeader.background": "#011627",
     "sideBarSectionHeader.foreground": "#5f7e97",
     "editorGroup.background": "#32374C",
-    "editorGroup.border": "#011627",
+    "editorGroup.border": "#5f7e97",
     "editorGroup.dropBackground": "#7e57c273",
     "editorGroupHeader.noTabsBackground": "#011627",
     "editorGroupHeader.tabsBackground": "#011627",
@@ -206,7 +206,8 @@
     "string.quoted.single.js": "#ffffff",
     "meta.objectliteral.js": "#82AAFF"
   },
-  "tokenColors": [{
+  "tokenColors": [
+    {
       "name": "Changed",
       "scope": [
         "markup.changed",
