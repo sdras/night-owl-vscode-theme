@@ -46,6 +46,7 @@ The community is awesome and has ported this theme over to other environments
 - RStudio [https://github.com/batpigandme/night-owlish](https://github.com/batpigandme/night-owlish/tree/master/rstheme)
 - Insomnia [https://github.com/yoannfleurydev/insomnia-plugin-night-owl-theme](https://github.com/yoannfleurydev/insomnia-plugin-night-owl-theme)
 - Sublime Text 3 [https://github.com/VonHeikemen/night-owl-sublime-scheme](https://github.com/VonHeikemen/night-owl-sublime-scheme)
+- Slack [https://github.com/clouby/night-owl-slack](https://github.com/clouby/night-owl-slack)
 
 ## Separate the Editor from the Sidebar
 
