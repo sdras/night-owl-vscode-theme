@@ -1,9 +1,8 @@
 {
   "name": "night-owl",
   "displayName": "Night Owl",
-  "description":
-    "A VS Code theme for the night owls out there. Works well in the daytime, too. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
-  "version": "0.1.7",
+  "description": "A VS Code theme for the night owls out there. Works well in the daytime, too. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
+  "version": "0.4.3",
   "publisher": "sdras",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
@@ -27,7 +26,9 @@
   "engines": {
     "vscode": "^1.17.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "icon": "owl-icon.png",
   "contributes": {
     "themes": [
@@ -35,6 +36,11 @@
         "label": "Night Owl",
         "uiTheme": "vs-dark",
         "path": "./themes/Night Owl-color-theme.json"
+      },
+      {
+        "label": "Night Owl No Italics",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Owl-color-theme-noitalic.json"
       }
     ]
   }
