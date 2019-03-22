@@ -14,7 +14,7 @@ About this theme, and some of the considerations made while creating it (as well
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
 3.  Choose **Extensions** from menu
-4.  Search for `night-owl-vscode-theme`
+4.  Search for `night-owl`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
 7.  From the menu bar click: Code > Preferences > Color Theme > **Night Owl**
@@ -36,7 +36,7 @@ The community is awesome and has ported this theme over to other environments
 - Atom: [https://atom.io/themes/night-owl-vs-code-syntax](https://atom.io/themes/night-owl-vs-code-syntax)
 - Jetbrains: [https://github.com/xdrop/night-owl-jetbrains](https://github.com/xdrop/night-owl-jetbrains)
 - Emacs: [https://github.com/aaronjensen/night-owl-emacs](https://github.com/aaronjensen/night-owl-emacs)
-- Vim 
+- Vim
   1. [https://github.com/Khaledgarbaya/night-owl-vim-theme](https://github.com/Khaledgarbaya/night-owl-vim-theme)
   2. [https://github.com/haishanh/night-owl.vim](https://github.com/haishanh/night-owl.vim)
 - Pygments [https://github.com/liamdawson/nightowl-pygments-style](https://github.com/liamdawson/nightowl-pygments-style)
