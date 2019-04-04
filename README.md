@@ -54,11 +54,13 @@ This theme uses contrast sparingly so that when it's applied, it's more meaningf
 
 ```
 "workbench.colorCustomizations": {
-  "activityBar.background": "#000C1D",
-  "activityBar.border": "#102a44",
-  "sideBar.background": "#001122",
-  "sideBar.border": "#102a44",
-  "sideBar.foreground": "#8BADC1"
+  "[Night Owl]": {
+    "activityBar.background": "#000C1D",
+    "activityBar.border": "#102a44",
+    "sideBar.background": "#001122",
+    "sideBar.border": "#102a44",
+    "sideBar.foreground": "#8BADC1"
+  }
 },
 ```
 
