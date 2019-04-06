@@ -1099,6 +1099,24 @@
       }
     },
     {
+      "name": "Powershell Variables",
+      "scope": [
+        "variable.other.readwrite.powershell",
+      ],
+      "settings": {
+        "foreground": "#82AAFF"
+      }
+    },
+    {
+      "name": "Powershell Function",
+      "scope": [
+        "support.function.powershell",
+      ],
+      "settings": {
+        "foreground": "#7fdbcaff"
+      }
+    },
+    {
       "name": "ID Attribute Name in HTML",
       "scope": "entity.other.attribute-name.id.html",
       "settings": {
