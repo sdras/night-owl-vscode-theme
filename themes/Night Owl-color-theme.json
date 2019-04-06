@@ -695,7 +695,7 @@
       "name": "Variable Property Other object property",
       "scope": ["variable.other.object.property"],
       "settings": {
-        "foreground": "#d7dbe0",
+        "foreground": "#faf39f",
         "fontStyle": "italic"
       }
     },
@@ -710,7 +710,7 @@
       "name": "Entity Name Function",
       "scope": ["entity.name.function"],
       "settings": {
-        "foreground": "#DCDCAA",
+        "foreground": "#82AAFF",
         "fontStyle": "italic"
       }
     },
@@ -1463,7 +1463,8 @@
       "name": "Python import control keyword",
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#c792ea",
+        "fontStyle": "italic"
       }
     },
     {
