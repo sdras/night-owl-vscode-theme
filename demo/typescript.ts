@@ -1,7 +1,7 @@
-import { Component, OnInit, OnDestroy } from '@angular/core'
-import { Person, SearchService } from '../shared'
-import { ActivatedRoute } from '@angular/router'
-import { Subscription } from 'rxjs'
+import { Component, OnDestroy, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
+import { Subscription } from 'rxjs';
+import { Person, SearchService } from '../shared';
 
 @Component({
   selector: 'app-search',
@@ -16,7 +16,7 @@ export class SearchComponent implements OnInit, OnDestroy {
   constructor(
     private searchService: SearchService,
     private route: ActivatedRoute
-  ) {}
+  ) { }
 
   ngOnInit() {
     this.sub = this.route.params.subscribe(params => {
@@ -47,15 +47,15 @@ async function asyncCall() {
   var result = await resolveAfter2Seconds();
 }
 
-for (let i=0; i <10; i++) {
+for (let i = 0; i < 10; i++) {
   continue;
 }
 
-if (true) {}
+if (true) { }
 
-while (true) {}
+while (true) { }
 
-switch(2) {
+switch (2) {
   case 2:
     break;
   default:
