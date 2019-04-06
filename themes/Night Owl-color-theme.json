@@ -567,6 +567,13 @@
       }
     },
     {
+      "name": "Punctuation Definition String Markdown",
+      "scope": "punctuation.definition.string.begin.markdown",
+      "settings": {
+        "foreground": "#ff5874"
+      }
+    },
+    {
       "name": "Boolean",
       "scope": "constant.language.boolean",
       "settings": {
