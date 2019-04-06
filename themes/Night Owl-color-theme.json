@@ -153,7 +153,7 @@
     "panelTitle.activeForeground": "#ffffffcc",
     "panelTitle.inactiveForeground": "#d6deeb80",
     "statusBar.background": "#011627",
-    "statusBar.foreground": "#676E95",
+    "statusBar.foreground": "#5f7e97",
     "statusBar.border": "#262A39",
     "statusBar.debuggingBackground": "#202431",
     "statusBar.debuggingForeground": null,
@@ -169,7 +169,7 @@
     "titleBar.activeForeground": "#eeefff",
     "titleBar.inactiveBackground": "#010e1a",
     "titleBar.inactiveForeground": null,
-    "notifications.background": "#011627",
+    "notifications.background": "#010c14",
     "notifications.foreground": "#ffffffcc",
     "notificationLink.foreground": "#80CBC4",
     "extensionButton.prominentForeground": "#ffffffcc",
@@ -380,7 +380,7 @@
       "name": "Function name",
       "scope": "entity.name.function",
       "settings": {
-        "foreground": "#DCDCAA",
+        "foreground": "#c792ea",
         "fontStyle": "italic"
       }
     },
