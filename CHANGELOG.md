@@ -2,6 +2,21 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "0.5.0"
+
+- Better Closure support
+- Better Powershell support
+- Update notification toasts so you can see them better
+- Make Proptypes stand out a bit more
+- Fix bottom statusbar foreground
+- Make inactive tab less distracting
+- Make object.other.property more pronounced
+- Update editorGroup.emptyBackground from deprecated version
+- Make contrast between function keyword stronger
+- Fix bug in markdown punctuation
+- Make a difference between current highlighted and searched-for keyword
+- Update JSON key to be less barfy
+
 ## "0.4.3"
 
 - Update README: vs code => visual studio code
