@@ -113,7 +113,7 @@
     "editorGutter.addedBackground": "#9CCC65",
     "editorGutter.deletedBackground": "#EF5350",
     "diffEditor.insertedTextBackground": "#99b76d23",
-    "diffEditor.insertedTextBorder": "#addb6733",
+    "diffEditor.insertedTextBorder": "#3baf8233",
     "diffEditor.removedTextBackground": "#ef535033",
     "diffEditor.removedTextBorder": "#ef53504d",
     "editorWidget.background": "#021320",
@@ -187,7 +187,7 @@
     "terminal.ansiGreen": "#22da6e",
     "terminal.ansiMagenta": "#78379b",
     "terminal.ansiRed": "#EF5350",
-    "terminal.ansiYellow": "#addb67",
+    "terminal.ansiYellow": "#3baf82",
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightBlack": "#575656",
     "terminal.ansiBrightBlue": "#157c98",
@@ -202,7 +202,7 @@
     "walkThrough.embeddedEditorBackground": "#f6f4f6",
     "gitDecoration.modifiedResourceForeground": "#a2bffc",
     "gitDecoration.deletedResourceForeground": "#EF535090",
-    "gitDecoration.untrackedResourceForeground": "#addb67ff",
+    "gitDecoration.untrackedResourceForeground": "#3baf82ff",
     "gitDecoration.ignoredResourceForeground": "#395a75",
     "gitDecoration.conflictingResourceForeground": "#ffeb95cc",
     "source.elm": "#5f7e97",
@@ -234,7 +234,7 @@
       "name": "Inserted",
       "scope": "markup.inserted.diff",
       "settings": {
-        "foreground": "#addb67ff",
+        "foreground": "#3baf82ff",
         "fontStyle": "italic"
       }
     },
@@ -257,21 +257,21 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
       "name": "String Quoted",
       "scope": ["string.quoted", "variable.other.readwrite.js"],
       "settings": {
-        "foreground": "#e06721"
+        "foreground": "#b93e2e"
       }
     },
     {
       "name": "Support Constant Math",
       "scope": "support.constant.math",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -325,7 +325,7 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -376,7 +376,7 @@
       "name": "Inherited class",
       "scope": "entity.other.inherited-class",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -418,14 +418,14 @@
       "scope": "entity.other.attribute-name",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
       "name": "Entity Name Tag Custom",
       "scope": "entity.name.tag.custom",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -446,14 +446,14 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class"],
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
       "name": "Support Variable DOM",
       "scope": "support.variable.dom",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -779,7 +779,7 @@
       "name": "Support Function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -899,7 +899,7 @@
       "name": "Bold",
       "scope": "bold",
       "settings": {
-        "foreground": "#addb67",
+        "foreground": "#3baf82",
         "fontStyle": "bold"
       }
     },
@@ -1016,7 +1016,7 @@
       "name": "Elixir Functions",
       "scope": "source.elixir entity.name.function",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -1033,7 +1033,7 @@
       "name": "Elixir String Punctuations",
       "scope": "source.elixir punctuation.definition.string",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -1043,7 +1043,7 @@
         "source.elixir variable.other.readwrite.module.elixir punctuation.definition.variable.elixir"
       ],
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -1166,7 +1166,7 @@
       "name": "ID Attribute Name in HTML",
       "scope": "entity.other.attribute-name.id.html",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -1293,7 +1293,7 @@
       "name": "JSON Support Constants",
       "scope": "support.constant.json",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -1336,7 +1336,7 @@
       "name": "Ruby Class",
       "scope": ["entity.name.type.class.ruby"],
       "settings": {
-        "foreground": "#e06721"
+        "foreground": "#b93e2e"
       }
     },
     {
@@ -1397,7 +1397,7 @@
       "name": "Markdown Bold",
       "scope": "markup.bold.markdown",
       "settings": {
-        "foreground": "#addb67",
+        "foreground": "#3baf82",
         "fontStyle": "bold"
       }
     },
@@ -1466,7 +1466,7 @@
       "name": "Markdown Inline Raw String",
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -1494,14 +1494,14 @@
       "name": "PHP Global Variables",
       "scope": "variable.other.global.php",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
       "name": "Declaration Punctuation in PHP Global Variables",
       "scope": "variable.other.global.php punctuation.definition.variable",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -1542,7 +1542,7 @@
       "name": "Decorator Functions in Python",
       "scope": "entity.name.function.decorator.python",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -1569,7 +1569,7 @@
         "variable.parameter.url.sass"
       ],
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#3baf82"
       }
     },
     {
@@ -1700,7 +1700,7 @@
       "name": "JavaScript Variable Other ReadWrite",
       "scope": ["variable.other.readwrite.js", "variable.parameter"],
       "settings": {
-        "foreground": "#d7dbe0"
+        "foreground": "#b93e2e"
       }
     },
     {
