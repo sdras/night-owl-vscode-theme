@@ -207,7 +207,7 @@
     "gitDecoration.conflictingResourceForeground": "#ffeb95cc",
     "source.elm": "#5f7e97",
     "string.quoted.single.js": "#ffffff",
-    "meta.objectliteral.js": "#82AAFF"
+    "meta.objectliteral.js": "#82AAFF",
   },
   "tokenColors": [{
       "name": "Changed",
@@ -355,7 +355,7 @@
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#addb67"
       }
     },
     {
@@ -1045,6 +1045,13 @@
       "settings": {
         "foreground": "#c792ea",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Closure Constant Keyword",
+      "scope": "constant.keyword.clojure",
+      "settings": {
+        "foreground": "#7fdbca"
       }
     },
     {

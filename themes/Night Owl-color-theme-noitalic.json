@@ -348,11 +348,11 @@
         "fontStyle": ""
       }
     },
-        {
+    {
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#addb67"
       }
     },
     {
@@ -1032,6 +1032,13 @@
       "settings": {
         "foreground": "#c792ea",
         "fontStyle": ""
+      }
+    },
+    {
+      "name": "Closure Constant Keyword",
+      "scope": "constant.keyword.clojure",
+      "settings": {
+        "foreground": "#7fdbca"
       }
     },
     {
