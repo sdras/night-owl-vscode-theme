@@ -348,11 +348,11 @@
         "fontStyle": ""
       }
     },
-    {
+        {
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#F78C6C"
       }
     },
     {

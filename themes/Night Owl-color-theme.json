@@ -169,7 +169,7 @@
     "titleBar.activeForeground": "#eeefff",
     "titleBar.inactiveBackground": "#010e1a",
     "titleBar.inactiveForeground": null,
-    "notifications.background": "#021f35",
+    "notifications.background": "#01111d",
     "notifications.border": "#262a39",
     "notificationCenter.border": "#262a39",
     "notificationToast.border": "#262a39",
@@ -355,7 +355,7 @@
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#F78C6C"
       }
     },
     {
