@@ -59,3 +59,15 @@ switch (2) {
   default:
     break;
 }
+
+class EditFishForm extends Component {
+  static propTypes = {
+    updateFish: PropTypes.func,
+    deleteFish: PropTypes.func,
+    index: PropTypes.string,
+    fish: PropTypes.shape({
+      image: PropTypes.string,
+      name: PropTypes.string.isRequired
+    })
+  }
+}

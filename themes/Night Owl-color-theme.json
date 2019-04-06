@@ -355,7 +355,7 @@
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#c792ea"
       }
     },
     {
@@ -1240,7 +1240,7 @@
       "name": "JSON Property Names",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#7fdbca"
       }
     },
     {
@@ -1269,6 +1269,14 @@
       "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
       "settings": {
         "foreground": "#ff5874"
+      }
+    },
+    {
+      "name": "JavaScript Other Variable",
+      "scope": "variable.other.object.js",
+      "settings": {
+        "foreground": "#7fdbca",
+        "fontStyle": "italic"
       }
     },
     {
