@@ -61,7 +61,7 @@
     "sideBarTitle.foreground": "#5f7e97",
     "sideBarSectionHeader.background": "#011627",
     "sideBarSectionHeader.foreground": "#5f7e97",
-    "editorGroup.background": "#32374C",
+    "editorGroup.emptyBackground": "#32374C",
     "editorGroup.border": "#011627",
     "editorGroup.dropBackground": "#7e57c273",
     "editorGroupHeader.noTabsBackground": "#011627",
