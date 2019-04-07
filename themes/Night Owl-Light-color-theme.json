@@ -225,7 +225,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#637777",
+        "foreground": "#939dbb",
         "fontStyle": "italic"
       }
     },
@@ -503,7 +503,7 @@
       "name": "Double-Slashed Comment",
       "scope": "comment.line.double-slash",
       "settings": {
-        "foreground": "#637777"
+        "foreground": "#939dbb"
       }
     },
     {
@@ -517,7 +517,7 @@
       "name": "Null",
       "scope": "constant.language.null",
       "settings": {
-        "foreground": "#ff5874"
+        "foreground": "#bc5454"
       }
     },
     {
@@ -546,14 +546,14 @@
       "name": "Punctuation Definition String Markdown",
       "scope": "punctuation.definition.string.begin.markdown",
       "settings": {
-        "foreground": "#ff5874"
+        "foreground": "#bc5454"
       }
     },
     {
       "name": "Boolean",
       "scope": "constant.language.boolean",
       "settings": {
-        "foreground": "#ff5874"
+        "foreground": "#bc5454"
       }
     },
     {
@@ -1071,7 +1071,7 @@
         "source.go constant.other.placeholder.go"
       ],
       "settings": {
-        "foreground": "#ff5874"
+        "foreground": "#bc5454"
       }
     },
     {
@@ -1099,7 +1099,7 @@
         "storage.type.language.primitive.cpp"
       ],
       "settings": {
-        "foreground": "#ff5874"
+        "foreground": "#bc5454"
       }
     },
     {
@@ -1290,7 +1290,7 @@
       "name": "Specific JSON Property values like null",
       "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
       "settings": {
-        "foreground": "#ff5874"
+        "foreground": "#bc5454"
       }
     },
     {
@@ -1484,7 +1484,7 @@
       "name": "Language Constants in Python",
       "scope": "constant.language.python",
       "settings": {
-        "foreground": "#ff5874"
+        "foreground": "#bc5454"
       }
     },
     {
