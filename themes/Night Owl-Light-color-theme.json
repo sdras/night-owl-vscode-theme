@@ -1358,7 +1358,7 @@
         "markup.heading.setext.2.markdown"
       ],
       "settings": {
-        "foreground": "#82b1ff"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -1421,7 +1421,7 @@
         "meta.link.inline.markdown punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#82b1ff"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -1435,7 +1435,7 @@
       "name": "Markdown List Punctuation",
       "scope": ["beginning.punctuation.definition.list.markdown"],
       "settings": {
-        "foreground": "#82b1ff"
+        "foreground": "#4876d6"
       }
     },
     {
