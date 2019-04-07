@@ -210,7 +210,7 @@
       "name": "Inserted",
       "scope": "markup.inserted.diff",
       "settings": {
-        "foreground": "#69a677ff",
+        "foreground": "#4876d6ff",
         "fontStyle": "italic"
       }
     },
@@ -233,21 +233,21 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
       "name": "String Quoted",
       "scope": ["string.quoted", "variable.other.readwrite.js"],
       "settings": {
-        "foreground": "#ecc48d"
+        "foreground": "#c96765"
       }
     },
     {
       "name": "Support Constant Math",
       "scope": "support.constant.math",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -301,7 +301,7 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -352,7 +352,7 @@
       "name": "Inherited class",
       "scope": "entity.other.inherited-class",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -394,14 +394,14 @@
       "scope": "entity.other.attribute-name",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
       "name": "Entity Name Tag Custom",
       "scope": "entity.name.tag.custom",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -422,14 +422,14 @@
       "name": "Library class/type",
       "scope": ["support.type", "support.class"],
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
       "name": "Support Variable DOM",
       "scope": "support.variable.dom",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -539,7 +539,7 @@
       "name": "Punctuation Definition String",
       "scope": "punctuation.definition.string",
       "settings": {
-        "foreground": "#d9f5dd"
+        "foreground": "#747996"
       }
     },
     {
@@ -646,7 +646,7 @@
       "name": "Punctuation Definition Parameters",
       "scope": "punctuation.definition.parameters",
       "settings": {
-        "foreground": "#d9f5dd"
+        "foreground": "#747996"
       }
     },
     {
@@ -681,7 +681,7 @@
       "name": "Variable Property Other object property",
       "scope": ["variable.other.object.property"],
       "settings": {
-        "foreground": "#faf39f",
+        "foreground": "#747996",
         "fontStyle": "italic"
       }
     },
@@ -755,7 +755,7 @@
       "name": "Support Function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -846,7 +846,7 @@
         "punctuation.definition.list"
       ],
       "settings": {
-        "foreground": "#d9f5dd"
+        "foreground": "#747996"
       }
     },
     {
@@ -875,7 +875,7 @@
       "name": "Bold",
       "scope": "bold",
       "settings": {
-        "foreground": "#69a677",
+        "foreground": "#4876d6",
         "fontStyle": "bold"
       }
     },
@@ -992,7 +992,7 @@
       "name": "Elixir Functions",
       "scope": "source.elixir entity.name.function",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -1009,7 +1009,7 @@
       "name": "Elixir String Punctuations",
       "scope": "source.elixir punctuation.definition.string",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -1019,7 +1019,7 @@
         "source.elixir variable.other.readwrite.module.elixir punctuation.definition.variable.elixir"
       ],
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -1090,7 +1090,7 @@
         "meta.namespace-block.cpp"
       ],
       "settings": {
-        "foreground": "#e0dec6"
+        "foreground": "#747996"
       }
     },
     {
@@ -1142,7 +1142,7 @@
       "name": "ID Attribute Name in HTML",
       "scope": "entity.other.attribute-name.id.html",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -1269,7 +1269,7 @@
       "name": "JSON Support Constants",
       "scope": "support.constant.json",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -1312,7 +1312,7 @@
       "name": "Ruby Class",
       "scope": ["entity.name.type.class.ruby"],
       "settings": {
-        "foreground": "#ecc48d"
+        "foreground": "#c96765"
       }
     },
     {
@@ -1373,7 +1373,7 @@
       "name": "Markdown Bold",
       "scope": "markup.bold.markdown",
       "settings": {
-        "foreground": "#69a677",
+        "foreground": "#4876d6",
         "fontStyle": "bold"
       }
     },
@@ -1442,14 +1442,14 @@
       "name": "Markdown Inline Raw String",
       "scope": "markup.inline.raw.string.markdown",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
       "name": "PHP Variables",
       "scope": ["variable.other.php", "variable.other.property.php"],
       "settings": {
-        "foreground": "#bec5d4"
+        "foreground": "#747996"
       }
     },
     {
@@ -1470,14 +1470,14 @@
       "name": "PHP Global Variables",
       "scope": "variable.other.global.php",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
       "name": "Declaration Punctuation in PHP Global Variables",
       "scope": "variable.other.global.php punctuation.definition.variable",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -1518,7 +1518,7 @@
       "name": "Decorator Functions in Python",
       "scope": "entity.name.function.decorator.python",
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -1545,7 +1545,7 @@
         "variable.parameter.url.sass"
       ],
       "settings": {
-        "foreground": "#69a677"
+        "foreground": "#4876d6"
       }
     },
     {
@@ -1565,7 +1565,7 @@
         "source.css.sass meta.at-rule variable"
       ],
       "settings": {
-        "foreground": "#bec5d4"
+        "foreground": "#747996"
       }
     },
     {
