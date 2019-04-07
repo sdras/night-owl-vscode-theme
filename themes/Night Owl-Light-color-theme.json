@@ -602,14 +602,14 @@
       "name": "Constant Other Color",
       "scope": "constant.other.color",
       "settings": {
-        "foreground": "#FFEB95"
+        "foreground": "#F78C6C"
       }
     },
     {
       "name": "Keyword Other Unit",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#FFEB95"
+        "foreground": "#F78C6C"
       }
     },
     {
@@ -624,7 +624,7 @@
       "name": "Entity Other Attribute Name Id",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "foreground": "#FAD430"
+        "foreground": "#F78C6C"
       }
     },
     {
@@ -1669,7 +1669,7 @@
       "name": "YAML Entity Name Tags",
       "scope": "entity.name.tag.yaml",
       "settings": {
-        "foreground": "#319a9e"
+        "foreground": "#111111"
       }
     },
     {
