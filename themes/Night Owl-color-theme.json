@@ -116,8 +116,8 @@
     "diffEditor.insertedTextBorder": "#addb6733",
     "diffEditor.removedTextBackground": "#ef535033",
     "diffEditor.removedTextBorder": "#ef53504d",
-    "editorWidget.background": "#31364a",
-    "editorWidget.border": "#262A39",
+    "editorWidget.background": "#021320",
+    "editorWidget.border": "#5f7e97",
     "editorSuggestWidget.background": "#2C3043",
     "editorSuggestWidget.border": "#2B2F40",
     "editorSuggestWidget.foreground": "#d6deeb",
@@ -127,7 +127,7 @@
     "editorHoverWidget.border": "#5f7e97",
     "debugExceptionWidget.background": "#011627",
     "debugExceptionWidget.border": "#5f7e97",
-    "editorMarkerNavigation.background": "#31364a",
+    "editorMarkerNavigation.background": "#0b2942",
     "editorMarkerNavigationError.background": "#EF5350",
     "editorMarkerNavigationWarning.background": "#FFCA28",
     "peekView.border": "#5f7e97",
@@ -1099,6 +1099,52 @@
       }
     },
     {
+      "name": "C++ Functions",
+      "scope": [
+        "entity.name.function.preprocessor.cpp",
+        "entity.scope.name.cpp"
+      ],
+      "settings": {
+        "foreground": "#7fdbcaff"
+      }
+    },
+    {
+      "name": "C++ Meta Namespace",
+      "scope": [
+        "meta.namespace-block.cpp"
+      ],
+      "settings": {
+        "foreground": "#e0dec6"
+      }
+    },
+    {
+      "name": "C++ Language Primitive Storage",
+      "scope": [
+        "storage.type.language.primitive.cpp"
+      ],
+      "settings": {
+        "foreground": "#ff5874"
+      }
+    },
+    {
+      "name": "C++ Preprocessor Macro",
+      "scope": [
+        "meta.preprocessor.macro.cpp"
+      ],
+      "settings": {
+        "foreground": "#d6deeb"
+      }
+    },
+    {
+      "name": "C++ Variable Parameter",
+      "scope": [
+        "variable.parameter"
+      ],
+      "settings": {
+        "foreground": "#ffcb8b"
+      }
+    },
+    {
       "name": "Powershell Variables",
       "scope": [
         "variable.other.readwrite.powershell"
@@ -1330,7 +1376,11 @@
     },
     {
       "name": "Markdown Headings",
-      "scope": "markup.heading.markdown",
+      "scope": [
+        "markup.heading.markdown",
+        "markup.heading.setext.1.markdown",
+        "markup.heading.setext.2.markdown"
+      ],
       "settings": {
         "foreground": "#82b1ff"
       }
