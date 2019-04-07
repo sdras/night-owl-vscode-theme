@@ -2,6 +2,13 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "1.0.0"
+
+- Light theme introduced
+- C++ support
+- Fix active selection background bug
+- Fix Markdown Header bug
+
 ## "0.5.0"
 
 - Better Closure support
