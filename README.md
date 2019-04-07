@@ -14,6 +14,7 @@ About this theme, and some of the considerations made while creating it (as well
 ![Night Owl Frameworks](three-dark.jpg)
 
 ## Light Owl
+![First Screen Light](light-owl-full.jpg)
 ![Light Owl Frameworks](three-light.jpg)
 
 # Installation
