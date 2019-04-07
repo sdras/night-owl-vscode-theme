@@ -33,6 +33,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Night Owl Light",
+        "uiTheme": "vs-light",
+        "path": "./themes/Night Owl-Light-color-theme.json"
+      },
+      {
         "label": "Night Owl",
         "uiTheme": "vs-dark",
         "path": "./themes/Night Owl-color-theme.json"
@@ -41,11 +46,6 @@
         "label": "Night Owl No Italics",
         "uiTheme": "vs-dark",
         "path": "./themes/Night Owl-color-theme-noitalic.json"
-      },
-      {
-        "label": "Night Owl Light",
-        "uiTheme": "vs-light",
-        "path": "./themes/Night Owl-Light-color-theme.json"
       }
     ]
   }
