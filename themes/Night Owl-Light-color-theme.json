@@ -62,7 +62,7 @@
 		"activityBar.background": "#F0F0F0",
 		"activityBar.foreground": "#403f53",
 		"activityBar.dropBackground": "#D0D0D0",
-		"activityBarBadge.background": "#2AA298",
+		"activityBarBadge.background": "#994cc3",
 		"activityBarBadge.foreground": "#F0F0F0",
 		"activityBar.border": "#F0F0F0",
 		// Side Bar
@@ -345,7 +345,7 @@
       "name": "Class name",
       "scope": ["entity.name.class", "meta.class entity.name.type.class"],
       "settings": {
-        "foreground": "#ffcb8b"
+        "foreground": "#000000"
       }
     },
     {
@@ -933,7 +933,7 @@
       "name": "C# Namespaces",
       "scope": "entity.name.type.namespace.cs",
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#319e86"
       }
     },
     {
@@ -1117,7 +1117,7 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#ffcb8b"
+        "foreground": "#000000"
       }
     },
     {
@@ -1164,7 +1164,7 @@
       "name": "JavaScript Classes",
       "scope": "meta.class entity.name.type.class.js",
       "settings": {
-        "foreground": "#ffcb8b"
+        "foreground": "#000000"
       }
     },
     {
@@ -1247,7 +1247,7 @@
       "name": "JavaScript Entity Name Type",
       "scope": ["entity.name.type.js", "entity.name.type.module.js"],
       "settings": {
-        "foreground": "#ffcb8b",
+        "foreground": "#000000",
         "fontStyle": ""
       }
     },
@@ -1456,7 +1456,7 @@
       "name": "Support Classes in PHP",
       "scope": "support.class.php",
       "settings": {
-        "foreground": "#ffcb8b"
+        "foreground": "#000000"
       }
     },
     {
@@ -1504,7 +1504,7 @@
         "meta.function-call.generic.python"
       ],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#319e86"
       }
     },
     {
@@ -1616,7 +1616,7 @@
       "name": "TypeScript[React] Entity Name Types",
       "scope": ["entity.name.type.ts", "entity.name.type.tsx"],
       "settings": {
-        "foreground": "#ffcb8b"
+        "foreground": "#000000"
       }
     },
     {
@@ -1702,14 +1702,14 @@
       "name": "TypeScript Classes",
       "scope": "meta.class entity.name.type.class.tsx",
       "settings": {
-        "foreground": "#ffcb8b"
+        "foreground": "#000000"
       }
     },
     {
       "name": "TypeScript Entity Name Type",
       "scope": ["entity.name.type.tsx", "entity.name.type.module.tsx"],
       "settings": {
-        "foreground": "#ffcb8b"
+        "foreground": "#000000"
       }
     },
     {
