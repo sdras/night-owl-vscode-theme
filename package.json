@@ -1,8 +1,8 @@
 {
   "name": "night-owl",
   "displayName": "Night Owl",
-  "description": "A VS Code theme for the night owls out there. Now introducing Early Bird/Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
-  "version": "1.0.0",
+  "description": "A VS Code theme for the night owls out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨",
+  "version": "1.0.1",
   "publisher": "sdras",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {

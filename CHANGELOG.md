@@ -2,6 +2,10 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "1.0.1"
+
+- Updated readme with new screenshots, including light theme
+
 ## "1.0.0"
 
 - Light theme introduced
