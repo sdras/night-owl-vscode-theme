@@ -252,7 +252,7 @@
       "name": "Number",
       "scope": ["constant.numeric", "constant.character.numeric"],
       "settings": {
-        "foreground": "#F78C6C",
+        "foreground": "#aa0982",
         "fontStyle": ""
       }
     },
@@ -278,7 +278,7 @@
       "name": "Constant Character Escape",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#aa0982"
       }
     },
     {
@@ -593,21 +593,21 @@
       "name": "Constant Other Color RGB Value Punctuation Definition Constant",
       "scope": "constant.other.color.rgb-value punctuation.definition.constant",
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#aa0982"
       }
     },
     {
       "name": "Constant Other Color",
       "scope": "constant.other.color",
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#aa0982"
       }
     },
     {
       "name": "Keyword Other Unit",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#aa0982"
       }
     },
     {
@@ -622,7 +622,7 @@
       "name": "Entity Other Attribute Name Id",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#aa0982"
       }
     },
     {
@@ -761,7 +761,7 @@
       "scope": "invalid.broken",
       "settings": {
         "foreground": "#020e14",
-        "background": "#F78C6C"
+        "background": "#aa0982"
       }
     },
     {
@@ -973,7 +973,7 @@
         "variable.other.readwrite.js"
       ],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#aa0982"
       }
     },
     {
@@ -1345,7 +1345,7 @@
       "name": "Attribute Name for LESS",
       "scope": "meta.attribute-selector.less entity.other.attribute-name.attribute",
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#aa0982"
       }
     },
     {
@@ -1573,7 +1573,7 @@
         "meta.attribute-selector.sass entity.other.attribute-name.attribute"
       ],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#aa0982"
       }
     },
     {
@@ -1681,7 +1681,7 @@
       "name": "Support Class Component",
       "scope": ["support.class.component.js", "support.class.component.tsx"],
       "settings": {
-        "foreground": "#f78c6c",
+        "foreground": "#aa0982",
         "fontStyle": ""
       }
     },
