@@ -2,6 +2,20 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "1.1.1"
+
+Light Theme
+- fix the find match background
+- fix the badge background to not be so distracting
+- fix keyword other unit css bright yellow
+- fix the too-bright-orange
+- fix the too-light turquoise, give it some contrast from the purple
+- fix up invalid illegal, make it not white so you can read it
+- stop all the weird border error lines
+
+Dark theme
+- fix up terminal selection background
+
 ## "1.1.0"
 
 - Light theme no italics introduced
