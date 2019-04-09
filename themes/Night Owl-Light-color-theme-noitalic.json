@@ -6,7 +6,7 @@
     "foreground": "#403f53",
     "focusBorder": "#93A1A1",
     "errorForeground": "#403f53",
-    "selection.background": "#F0F0F0",
+    "selection.background": "#7a8181ad",
     "descriptionForeground": "#403f53",
     "widget.shadow": "#d9d9d9",
     "titleBar.activeBackground": "#F0F0F0",
