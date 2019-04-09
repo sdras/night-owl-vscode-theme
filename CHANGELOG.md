@@ -2,9 +2,10 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
-## Unreleased
+## "1.1.0"
 
-- Light theme (no italics) introduced
+- Light theme no italics introduced
+- Fix bug in empty editor view
 
 ## "1.0.1"
 
