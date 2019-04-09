@@ -223,7 +223,7 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#939dbb",
+        "foreground": "#989fb1",
         "fontStyle": "italic"
       }
     },
@@ -1522,7 +1522,7 @@
       "name": "Python Language Variable",
       "scope": "source.python variable.language.special",
       "settings": {
-        "foreground": "#8EACE3"
+        "foreground": "#aa0982"
       }
     },
     {

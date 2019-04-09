@@ -20,3 +20,15 @@ def topo(G, ind=None, Q=[1]):
         if ind[w] == 0:
             Q.append(w)
     topo(G, ind, Q)
+
+
+class SomeClass:
+    def create_arr(self): # An instance method
+        self.arr = []
+    
+    def insert_to_arr(self, value):  #An instance method
+        self.arr.append(value)
+        
+    @classmethod
+    def class_method(cls):
+        print("the class method was called")
