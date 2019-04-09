@@ -947,7 +947,7 @@
       "name": "CSS Keyword Other Unit",
       "scope": "keyword.other.unit.css",
       "settings": {
-        "foreground": "#FFEB95"
+        "foreground": "#4876d6"
       }
     },
     {
