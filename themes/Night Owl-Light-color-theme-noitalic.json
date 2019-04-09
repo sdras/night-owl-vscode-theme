@@ -1299,7 +1299,7 @@
       "name": "LESS Tag names",
       "scope": "entity.name.tag.less",
       "settings": {
-        "foreground": "#319a9e"
+        "foreground": "#994cc3"
       }
     },
     {
@@ -1553,7 +1553,7 @@
       "name": "SASS Keyword Other Unit",
       "scope": ["keyword.other.unit.scss", "keyword.other.unit.sass"],
       "settings": {
-        "foreground": "#FFEB95"
+        "foreground": "#994cc3"
       }
     },
     {

@@ -1331,14 +1331,14 @@
       "name": "LESS Tag names",
       "scope": "entity.name.tag.less",
       "settings": {
-        "foreground": "#319a9e"
+        "foreground": "#994cc3"
       }
     },
     {
       "name": "LESS Keyword Other Unit",
       "scope": "keyword.other.unit.css",
       "settings": {
-        "foreground": "#FFEB95"
+        "foreground": "#319a9e"
       }
     },
     {
@@ -1587,7 +1587,7 @@
       "name": "SASS Keyword Other Unit",
       "scope": ["keyword.other.unit.scss", "keyword.other.unit.sass"],
       "settings": {
-        "foreground": "#FFEB95"
+        "foreground": "#994cc3"
       }
     },
     {
