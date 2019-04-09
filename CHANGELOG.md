@@ -2,6 +2,12 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "1.1.2"
+
+Light Theme
+- make selection background darker
+- make code comments darker
+
 ## "1.1.1"
 
 Light Theme
