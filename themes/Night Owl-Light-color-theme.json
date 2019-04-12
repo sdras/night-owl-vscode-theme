@@ -1038,7 +1038,7 @@
       "name": "Go Function Calls",
       "scope": "source.go meta.function-call.go",
       "settings": {
-        "foreground": "#DDDDDD"
+        "foreground": "#0c969b"
       }
     },
     {
