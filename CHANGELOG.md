@@ -2,15 +2,23 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "1.1.3"
+
+### Light 
+- Update Go too-light function calls
+
+### Dark
+- make selection background in search more legible
+
 ## "1.1.2"
 
-Light Theme
+### Light Theme
 - make selection background darker
 - make code comments darker
 
 ## "1.1.1"
 
-Light Theme
+### Light Theme
 - fix the find match background
 - fix the badge background to not be so distracting
 - fix keyword other unit css bright yellow
@@ -19,7 +27,7 @@ Light Theme
 - fix up invalid illegal, make it not white so you can read it
 - stop all the weird border error lines
 
-Dark theme
+### Dark theme
 - fix up terminal selection background
 
 ## "1.1.0"
