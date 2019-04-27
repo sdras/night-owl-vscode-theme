@@ -744,7 +744,10 @@
         "keyword.control.conditional.js",
         "keyword.control.conditional.ts",
         "keyword.control.switch.js",
-        "keyword.control.switch.ts"
+        "keyword.control.switch.ts",
+        "keyword.operator.instanceof.js",
+        "keyword.operator.expression.instanceof.ts",
+        "keyword.operator.expression.instanceof.tsx"
       ],
       "settings": {
         "foreground": "#c792ea",

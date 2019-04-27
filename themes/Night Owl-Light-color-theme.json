@@ -716,7 +716,10 @@
         "keyword.control.import.tsx",
         "keyword.control.from.js",
         "keyword.control.from.ts",
-        "keyword.control.from.tsx"
+        "keyword.control.from.tsx",
+        "keyword.operator.instanceof.js",
+        "keyword.operator.expression.instanceof.ts",
+        "keyword.operator.expression.instanceof.tsx"
       ],
       "settings": {
         "foreground": "#994cc3",
