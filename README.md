@@ -55,6 +55,7 @@ The community is awesome and has ported this theme over to other environments
 - Insomnia [https://github.com/yoannfleurydev/insomnia-plugin-night-owl-theme](https://github.com/yoannfleurydev/insomnia-plugin-night-owl-theme)
 - Sublime Text 3 [https://github.com/VonHeikemen/night-owl-sublime-scheme](https://github.com/VonHeikemen/night-owl-sublime-scheme)
 - Slack [https://github.com/clouby/night-owl-slack](https://github.com/clouby/night-owl-slack)
+- Xcode [https://github.com/stealthanthrax/xcode-Night-Owl](https://github.com/stealthanthrax/xcode-Night-Owl)
 
 ## Separate the Editor from the Sidebar
 
