@@ -1,7 +1,7 @@
 'use strict'
 class Sale {
   constructor(price) {
-    ;[this.decoratorsList, this.price] = [[], price]
+    [this.decoratorsList, this.price] = [[], price]
   }
 
   decorate(decorator) {

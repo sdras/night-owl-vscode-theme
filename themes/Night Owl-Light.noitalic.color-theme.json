@@ -1,0 +1,220 @@
+{
+  "name": "Night Owl Light",
+  "type": "light",
+  "include": "./Night Owl-Light.color-theme.json",
+  "colors": {},
+  "tokenColors": [
+    {
+      "name": "Changed",
+      "scope": [
+        "markup.changed",
+        "meta.diff.header.git",
+        "meta.diff.header.from-file",
+        "meta.diff.header.to-file"
+      ],
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Deleted",
+      "scope": "markup.deleted.diff",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Inserted",
+      "scope": "markup.inserted.diff",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Comment",
+      "scope": "comment",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Keyword",
+      "scope": ["punctuation.accessor", "keyword"],
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": [
+        "storage",
+        "meta.var.expr",
+        "meta.class meta.method.declaration meta.var.expr storage.type.js",
+        "storage.type.property.js",
+        "storage.type.property.ts",
+        "storage.type.property.tsx"
+      ],
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Function name",
+      "scope": "entity.name.function",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Tag attribute",
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "fontStyle": "",
+      }
+    },
+    {
+      "name": "Keyword Operator Relational",
+      "scope": "keyword.operator.relational",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Meta Delimiter Period",
+      "scope": "meta.delimiter.period",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Meta Selector",
+      "scope": "meta.selector",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Doctypes",
+      "scope": ["entity.name.tag.doctype", "meta.tag.sgml.doctype"],
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Variable Property Other object property",
+      "scope": ["variable.other.object.property"],
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Entity Name Function",
+      "scope": ["entity.name.function"],
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Keyword Operator Comparison, imports, returns and Keyword Operator Ruby",
+      "scope": [
+        "keyword.operator.comparison",
+        "keyword.control.flow.js",
+        "keyword.control.flow.ts",
+        "keyword.control.flow.tsx",
+        "keyword.control.ruby",
+        "keyword.control.module.ruby",
+        "keyword.control.class.ruby",
+        "keyword.control.def.ruby",
+        "keyword.control.loop.js",
+        "keyword.control.loop.ts",
+        "keyword.control.import.js",
+        "keyword.control.import.ts",
+        "keyword.control.import.tsx",
+        "keyword.control.from.js",
+        "keyword.control.from.ts",
+        "keyword.control.from.tsx",
+        "keyword.operator.instanceof.js",
+        "keyword.operator.expression.instanceof.ts",
+        "keyword.operator.expression.instanceof.tsx"
+      ],
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Italics",
+      "scope": "italic",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Quote",
+      "scope": "quote",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Elixir Binary Punctuations",
+      "scope": "source.elixir .punctuation.binary.elixir",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Go Keywords",
+      "scope": [
+        "source.go keyword.package.go",
+        "source.go keyword.import.go",
+        "source.go keyword.function.go",
+        "source.go keyword.type.go",
+        "source.go keyword.struct.go",
+        "source.go keyword.interface.go",
+        "source.go keyword.const.go",
+        "source.go keyword.var.go",
+        "source.go keyword.map.go",
+        "source.go keyword.channel.go",
+        "source.go keyword.control.go"
+      ],
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "HTML Doctype",
+      "scope": "meta.tag.sgml.doctype.html",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "JavaScript Other Variable",
+      "scope": "variable.other.object.js",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Markdown Italics",
+      "scope": "markup.italic.markdown",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Markdown Quote + others",
+      "scope": "markup.quote.markdown",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
+      "name": "Python import control keyword",
+      "scope": "keyword.control",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+  ]
+}
