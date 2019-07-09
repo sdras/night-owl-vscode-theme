@@ -20,7 +20,6 @@
     "input.foreground": "#ffffffcc",
     "input.placeholderForeground": "#5f7e97",
     "inputOption.activeBorder": "#ffffffcc",
-    "punctuation.definition.generic.begin.html": "#ef5350f2",
     "inputValidation.errorBackground": "#AB0300F2",
     "inputValidation.errorBorder": "#EF5350",
     "inputValidation.infoBackground": "#00589EF2",
