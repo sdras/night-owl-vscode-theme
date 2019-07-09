@@ -434,16 +434,14 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "#ff2c83",
-        "foreground": "#ffffff"
+        "foreground": "#ff2c83"
       }
     },
     {
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff",
-        "background": "#d3423e"
+        "foreground": "#d3423e"
       }
     },
     {
@@ -763,23 +761,21 @@
       "name": "Invalid Broken",
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#020e14",
-        "background": "#aa0982"
+        "foreground": "#aa0982"
       }
     },
     {
       "name": "Invalid Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "background": "#8BD649",
-        "foreground": "#ffffff"
+        "foreground": "#8BD649"
       }
     },
     {
       "name": "Invalid Illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#c96765",
+        "foreground": "#c96765"
       }
     },
     {
