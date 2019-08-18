@@ -31,9 +31,11 @@ About this theme, and some of the considerations made while creating it (as well
 
 If you wish to disable italics, there is now a no-italic theme available. You will have access to both, select **Night Owl No Italics** as your color theme.
 
-## Other versions of this Theme (Dark Theme only so far)
+## Other versions
 
-The community is awesome and has ported this theme over to other environments
+The community is awesome and has ported this theme over to other environments.
+
+#### Dark Theme
 
 - Hyper: [https://github.com/pbomb/hyper-night-owl](https://github.com/pbomb/hyper-night-owl)
 - iTerm2
@@ -56,6 +58,10 @@ The community is awesome and has ported this theme over to other environments
 - Sublime Text 3 [https://github.com/VonHeikemen/night-owl-sublime-scheme](https://github.com/VonHeikemen/night-owl-sublime-scheme)
 - Slack [https://github.com/clouby/night-owl-slack](https://github.com/clouby/night-owl-slack)
 - Xcode [https://github.com/stealthanthrax/xcode-Night-Owl](https://github.com/stealthanthrax/xcode-Night-Owl)
+
+#### Light Theme
+
+- iTerm2: [https://github.com/fcaldera/night-owl-light-iterm2](https://github.com/fcaldera/night-owl-light-iterm2)
 
 ## Separate the Editor from the Sidebar
 
