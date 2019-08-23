@@ -56,6 +56,7 @@ The community is awesome and has ported this theme over to other environments
 - Sublime Text 3 [https://github.com/VonHeikemen/night-owl-sublime-scheme](https://github.com/VonHeikemen/night-owl-sublime-scheme)
 - Slack [https://github.com/clouby/night-owl-slack](https://github.com/clouby/night-owl-slack)
 - Xcode [https://github.com/stealthanthrax/xcode-Night-Owl](https://github.com/stealthanthrax/xcode-Night-Owl)
+- Visual Studio 2019: [https://github.com/kai-oswald/NightOwl-VS-Theme](https://github.com/kai-oswald/NightOwl-VS-Theme)
 
 ## Separate the Editor from the Sidebar
 
