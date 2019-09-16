@@ -22,7 +22,7 @@ About this theme, and some of the considerations made while creating it (as well
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
 3.  Choose **Extensions** from menu
-4.  Search for `night-owl`
+4.  Search for `night owl`
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
 7.  From the menu bar click: Code > Preferences > Color Theme > **Night Owl**
@@ -31,9 +31,11 @@ About this theme, and some of the considerations made while creating it (as well
 
 If you wish to disable italics, there is now a no-italic theme available. You will have access to both, select **Night Owl No Italics** as your color theme.
 
-## Other versions of this Theme (Dark Theme only so far)
+## Other versions
 
-The community is awesome and has ported this theme over to other environments
+The community is awesome and has ported this theme over to other environments.
+
+#### Dark Theme
 
 - Hyper: [https://github.com/pbomb/hyper-night-owl](https://github.com/pbomb/hyper-night-owl)
 - iTerm2
@@ -57,6 +59,12 @@ The community is awesome and has ported this theme over to other environments
 - Slack [https://github.com/clouby/night-owl-slack](https://github.com/clouby/night-owl-slack)
 - Xcode [https://github.com/stealthanthrax/xcode-Night-Owl](https://github.com/stealthanthrax/xcode-Night-Owl)
 - Visual Studio 2019: [https://github.com/kai-oswald/NightOwl-VS-Theme](https://github.com/kai-oswald/NightOwl-VS-Theme)
+- Prism [https://github.com/SaraVieira/prism-theme-night-owl](https://github.com/SaraVieira/prism-theme-night-owl)
+- Windows Terminal [https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl](https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl)
+
+#### Light Theme
+
+- iTerm2: [https://github.com/fcaldera/night-owl-light-iterm2](https://github.com/fcaldera/night-owl-light-iterm2)
 
 ## Separate the Editor from the Sidebar
 
