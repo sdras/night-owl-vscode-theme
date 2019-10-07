@@ -979,6 +979,21 @@
       }
     },
     {
+      "name": "CSS Custom Property declarations",
+      "scope": ["variable.css"],
+      "settings": {
+        "foreground": "#111111"
+      }
+    },
+    {
+				"name": "CSS Custom Property usage",
+				"scope": ["variable.argument.css"],
+				"settings": {
+					"foreground": "#111111",
+					"fontStyle": "italic"
+				}
+		},
+    {
       "name": "Elixir Classes",
       "scope": [
         "source.elixir support.type.elixir",
