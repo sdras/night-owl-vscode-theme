@@ -942,7 +942,7 @@
       "name": "C# Classes & Storage types",
       "scope": ["entity.name.type.class.cs", "storage.type.cs"],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#ffcb8b"
       }
     },
     {
@@ -950,6 +950,36 @@
       "scope": "entity.name.type.namespace.cs",
       "settings": {
         "foreground": "#B2CCD6"
+      }
+    },
+    {
+      "name": "C# Unquoted String Zone",
+      "scope": "string.unquoted.preprocessor.message.cs",
+      "settings": {
+        "foreground": "#d6deeb"
+      }
+    },
+    {
+      "name": "C# Region",
+      "scope": ["punctuation.separator.hash.cs", "keyword.preprocessor.region.cs",
+        "keyword.preprocessor.endregion.cs"],
+      "settings": {
+        "foreground": "#ffcb8b",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "C# Other Variables",
+      "scope": "variable.other.object.cs",
+      "settings": {
+        "foreground": "#B2CCD6"
+      }
+    },
+    {
+      "name": "C# Enum",
+      "scope": "entity.name.type.enum.cs",
+      "settings": {
+        "foreground": "#addb67"
       }
     },
     {
