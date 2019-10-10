@@ -983,6 +983,13 @@
       }
     },
     {
+      "name": "Dart String",
+      "scope": ["string.interpolated.single.dart", "string.interpolated.double.dart"],
+      "settings": {
+        "foreground": "#FFCB8B"
+      }
+    },
+    {
       "name": "Tag names in Stylesheets",
       "scope": [
         "entity.name.tag.css",
