@@ -990,6 +990,13 @@
       }
     },
     {
+      "name": "Dart Class",
+      "scope": "support.class.dart",
+      "settings": {
+        "foreground": "#FFCB8B"
+      }
+    },
+    {
       "name": "Tag names in Stylesheets",
       "scope": [
         "entity.name.tag.css",
