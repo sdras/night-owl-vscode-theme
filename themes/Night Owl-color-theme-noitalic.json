@@ -2,7 +2,6 @@
   "name": "Night Owl No Italics",
   "type": "dark",
   "colors": {
-    "contrastActiveBorder": "#122d42",
     "contrastBorder": "#122d42",
     "focusBorder": "#122d42",
     "foreground": "#d6deeb",
