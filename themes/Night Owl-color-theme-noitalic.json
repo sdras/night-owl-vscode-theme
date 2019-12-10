@@ -1002,12 +1002,12 @@
       }
     },
     {
-				"name": "CSS Custom Property usage",
-				"scope": ["variable.argument.css"],
-				"settings": {
-					"foreground": "#82aaff",
-					"fontStyle": "italic"
-				}
+      "name": "CSS Custom Property usage",
+      "scope": ["variable.argument.css"],
+      "settings": {
+        "foreground": "#82aaff",
+        "fontStyle": "italic"
+      }
 		},
     {
       "name": "Elixir Classes",
