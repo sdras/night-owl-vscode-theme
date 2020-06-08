@@ -764,7 +764,7 @@
       "name": "Invalid Illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#c96765",
+        "foreground": "#c96765"
       }
     },
     {
@@ -1676,6 +1676,16 @@
       "scope": ["entity.name.type.tsx", "entity.name.type.module.tsx"],
       "settings": {
         "foreground": "#111111"
+      }
+    },
+    {
+      "name": "TypeScript Class Variable Keyword",
+      "scope": [
+        "meta.class.ts meta.var.expr.ts storage.type.ts",
+        "meta.class.tsx meta.var.expr.tsx storage.type.tsx"
+      ],
+      "settings": {
+        "foreground": "#C792EA"
       }
     },
     {
