@@ -1,6 +1,10 @@
 <template>
   <div>
-    <button @click="getNewIntent" :class="{ disabled: uiState === 'listening' }"></button>
+    <AppSelect />
+    <button
+      @click="getNewIntent"
+      :class="{ disabled: uiState === 'listening' }"
+    ></button>
   </div>
 </template>
 
@@ -10,21 +14,21 @@ export default {
     aborted: {
       type: Boolean,
       default: false,
-      required: true
-    }
+      required: true,
+    },
   },
   computed: {
     uiState() {
-      return this.$store.state.uiState
-    }
+      return this.$store.state.uiState;
+    },
   },
   methods: {
     getNewIntent() {
-      this.$store.dispatch('getSpeech')
-      this.$emit('isaborted', false)
-    }
-  }
-}
+      this.$store.dispatch("getSpeech");
+      this.$emit("isaborted", false);
+    },
+  },
+};
 </script>
 
 <style scoped>
