@@ -1709,6 +1709,16 @@
       }
     },
     {
+      "name": "TypeScript Class Variable Keyword",
+      "scope": [
+        "meta.class.ts meta.var.expr.ts storage.type.ts",
+        "meta.class.tsx meta.var.expr.tsx storage.type.tsx"
+      ],
+      "settings": {
+        "foreground": "#994CC3"
+      }
+    },
+    {
       "name": "TypeScript Method Declaration e.g. `constructor`",
       "scope": [
         "meta.method.declaration storage.type.ts",

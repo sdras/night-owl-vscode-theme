@@ -2,6 +2,9 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "1.1.4"
+- fix typescript variable keyword highlighting inside classes
+
 ## "1.1.3"
 
 ### Light 
