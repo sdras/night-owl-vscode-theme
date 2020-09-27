@@ -2,6 +2,12 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "1.2.0"
+- fix dart files
+- update demo files, add in react hook example
+- fix contrast on popups
+- add in more ports to readme
+
 ## "1.1.4"
 - fix typescript variable keyword highlighting inside classes
 
