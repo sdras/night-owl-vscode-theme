@@ -1,7 +1,7 @@
 {
   "name": "Night Owl Light",
   "type": "light",
-  "semanticHighlighting": true,
+  "semanticHighlighting": false,
   "colors": {
     "foreground": "#403f53",
     "focusBorder": "#93A1A1",

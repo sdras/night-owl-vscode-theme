@@ -2,6 +2,12 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+## "2.0.0"
+
+- change strings
+- turn a base color less neon green
+- turn off semantic highlighting
+
 ## "1.2.1"
 
 - fix italic/non-italic inconsistencies
