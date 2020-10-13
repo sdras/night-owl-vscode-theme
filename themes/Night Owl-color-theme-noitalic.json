@@ -1,6 +1,7 @@
 {
   "name": "Night Owl No Italics",
   "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "contrastBorder": "#122d42",
     "focusBorder": "#122d42",
@@ -211,7 +212,8 @@
     "string.quoted.single.js": "#ffffff",
     "meta.objectliteral.js": "#82AAFF"
   },
-  "tokenColors": [{
+  "tokenColors": [
+    {
       "name": "Changed",
       "scope": [
         "markup.changed",
@@ -961,8 +963,11 @@
     },
     {
       "name": "C# Region",
-      "scope": ["punctuation.separator.hash.cs", "keyword.preprocessor.region.cs",
-        "keyword.preprocessor.endregion.cs"],
+      "scope": [
+        "punctuation.separator.hash.cs",
+        "keyword.preprocessor.region.cs",
+        "keyword.preprocessor.endregion.cs"
+      ],
       "settings": {
         "foreground": "#ffcb8b",
         "fontStyle": "bold"
@@ -984,7 +989,10 @@
     },
     {
       "name": "Dart String",
-      "scope": ["string.interpolated.single.dart", "string.interpolated.double.dart"],
+      "scope": [
+        "string.interpolated.single.dart",
+        "string.interpolated.double.dart"
+      ],
       "settings": {
         "foreground": "#FFCB8B"
       }
@@ -1133,7 +1141,7 @@
         "foreground": "#ff5874"
       }
     },
-        {
+    {
       "name": "C++ Functions",
       "scope": [
         "entity.name.function.preprocessor.cpp",
@@ -1145,54 +1153,42 @@
     },
     {
       "name": "C++ Meta Namespace",
-      "scope": [
-        "meta.namespace-block.cpp"
-      ],
+      "scope": ["meta.namespace-block.cpp"],
       "settings": {
         "foreground": "#e0dec6"
       }
     },
     {
       "name": "C++ Language Primitive Storage",
-      "scope": [
-        "storage.type.language.primitive.cpp"
-      ],
+      "scope": ["storage.type.language.primitive.cpp"],
       "settings": {
         "foreground": "#ff5874"
       }
     },
     {
       "name": "C++ Preprocessor Macro",
-      "scope": [
-        "meta.preprocessor.macro.cpp"
-      ],
+      "scope": ["meta.preprocessor.macro.cpp"],
       "settings": {
         "foreground": "#d6deeb"
       }
     },
     {
       "name": "C++ Variable Parameter",
-      "scope": [
-        "variable.parameter"
-      ],
+      "scope": ["variable.parameter"],
       "settings": {
         "foreground": "#ffcb8b"
       }
     },
     {
       "name": "Powershell Variables",
-      "scope": [
-        "variable.other.readwrite.powershell"
-      ],
+      "scope": ["variable.other.readwrite.powershell"],
       "settings": {
         "foreground": "#82AAFF"
       }
     },
     {
       "name": "Powershell Function",
-      "scope": [
-        "support.function.powershell"
-      ],
+      "scope": ["support.function.powershell"],
       "settings": {
         "foreground": "#7fdbcaff"
       }
@@ -1317,7 +1313,7 @@
         "foreground": "#d6deeb"
       }
     },
-       {
+    {
       "name": "JSON Property Names",
       "scope": "support.type.property-name.json",
       "settings": {

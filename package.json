@@ -35,7 +35,8 @@
   ],
   "icon": "owl-icon.png",
   "contributes": {
-    "themes": [{
+    "themes": [
+      {
         "label": "Night Owl",
         "uiTheme": "vs-dark",
         "path": "./themes/Night Owl-color-theme.json"
