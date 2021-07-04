@@ -63,12 +63,16 @@ The community is awesome and has ported this theme over to other environments.
 - Visual Studio 2019: [https://github.com/kai-oswald/NightOwl-VS-Theme](https://github.com/kai-oswald/NightOwl-VS-Theme)
 - Prism [https://github.com/SaraVieira/prism-theme-night-owl](https://github.com/SaraVieira/prism-theme-night-owl)
 - Windows Terminal [https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl](https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl)
+- Alacritty: [https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty/wiki/Color-schemes)
+
 
 #### Light Theme
 
 - iTerm2: [https://github.com/fcaldera/night-owl-light-iterm2](https://github.com/fcaldera/night-owl-light-iterm2)
 - Vim: [https://github.com/macguirerintoul/night_owl_light.vim](https://github.com/macguirerintoul/night_owl_light.vim)
 - Tilix: [https://github.com/johanhammar/light-owl-tilix](https://github.com/johanhammar/light-owl-tilix)
+- Alacritty: [https://github.com/nik27/night-owl-alacritty-theme](https://github.com/nik27/night-owl-alacritty-theme)
+
 
 ## Separate the Editor from the Sidebar
 
@@ -79,6 +83,7 @@ This theme uses contrast sparingly so that when it's applied, it's more meaningf
   "[Night Owl]": {
     "activityBar.background": "#000C1D",
     "activityBar.border": "#102a44",
+    "editorGroup.border": "#102a44",
     "sideBar.background": "#001122",
     "sideBar.border": "#102a44",
     "sideBar.foreground": "#8BADC1"
@@ -86,6 +91,7 @@ This theme uses contrast sparingly so that when it's applied, it's more meaningf
   "[Night Owl (No Italics)]": {
     "activityBar.background": "#000C1D",
     "activityBar.border": "#102a44",
+    "editorGroup.border": "#102a44",
     "sideBar.background": "#001122",
     "sideBar.border": "#102a44",
     "sideBar.foreground": "#8BADC1"
