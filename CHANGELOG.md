@@ -2,6 +2,11 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+# "2.0.1
+
+- update readme
+- update branch name
+
 ## "2.0.0"
 
 - change strings
