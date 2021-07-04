@@ -63,7 +63,6 @@ The community is awesome and has ported this theme over to other environments.
 - Visual Studio 2019: [https://github.com/kai-oswald/NightOwl-VS-Theme](https://github.com/kai-oswald/NightOwl-VS-Theme)
 - Prism [https://github.com/SaraVieira/prism-theme-night-owl](https://github.com/SaraVieira/prism-theme-night-owl)
 - Windows Terminal [https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl](https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl)
-- Alacritty: [https://github.com/nik27/night-owl-alacritty-theme](https://github.com/nik27/night-owl-alacritty-theme)
 
 #### Light Theme
 
