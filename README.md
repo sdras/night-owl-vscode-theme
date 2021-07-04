@@ -78,6 +78,7 @@ This theme uses contrast sparingly so that when it's applied, it's more meaningf
   "[Night Owl]": {
     "activityBar.background": "#000C1D",
     "activityBar.border": "#102a44",
+    "editorGroup.border": "#102a44",
     "sideBar.background": "#001122",
     "sideBar.border": "#102a44",
     "sideBar.foreground": "#8BADC1"
@@ -85,6 +86,7 @@ This theme uses contrast sparingly so that when it's applied, it's more meaningf
   "[Night Owl (No Italics)]": {
     "activityBar.background": "#000C1D",
     "activityBar.border": "#102a44",
+    "editorGroup.border": "#102a44",
     "sideBar.background": "#001122",
     "sideBar.border": "#102a44",
     "sideBar.foreground": "#8BADC1"
