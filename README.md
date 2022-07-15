@@ -64,7 +64,7 @@ The community is awesome and has ported this theme over to other environments.
 - Prism [https://github.com/SaraVieira/prism-theme-night-owl](https://github.com/SaraVieira/prism-theme-night-owl)
 - Windows Terminal [https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl](https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl)
 - Alacritty: [https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty/wiki/Color-schemes)
-
+- Cool-Retro-Term: [https://gist.github.com/pbnj/ac6641d2fe4dbb3d19ca7a524e3058e6](https://gist.github.com/pbnj/ac6641d2fe4dbb3d19ca7a524e3058e6)
 
 #### Light Theme
 
