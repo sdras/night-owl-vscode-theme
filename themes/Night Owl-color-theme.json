@@ -90,7 +90,7 @@
     "editor.findMatchHighlightBackground": "#1085bb5d",
     "editor.findRangeHighlightBackground": null,
     "editor.hoverHighlightBackground": "#7e57c25a",
-    "editor.lineHighlightBackground": "#0003",
+    "editor.lineHighlightBackground": "#d57b2d8f",
     "editor.lineHighlightBorder": null,
     "editorLink.activeForeground": null,
     "editor.rangeHighlightBackground": "#7e57c25a",
