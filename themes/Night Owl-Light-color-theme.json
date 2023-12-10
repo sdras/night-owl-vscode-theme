@@ -109,7 +109,7 @@
     "editorError.foreground": "#E64D49",
     "editorError.border": "#FBFBFB",
     "editorWarning.foreground": "#daaa01",
-    "editorWarning.border": "#daaa01",
+    "editorWarning.border": null,
     "editorGutter.addedBackground": "#49d0c5",
     "editorGutter.modifiedBackground": "#6fbef6",
     "editorGutter.deletedBackground": "#f76e6e",
