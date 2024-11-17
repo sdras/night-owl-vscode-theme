@@ -101,7 +101,7 @@ This theme uses contrast sparingly so that when it's applied, it's more meaningf
 
 ## Preferences shown in the preview
 
-The font in the preview image is Dank Mono, [available here](https://dank.sh/). Editor settings to activate font ligatures:
+The font in the preview image is Dank Mono, [available here](https://philpl.gumroad.com/l/dank-mono). Editor settings to activate font ligatures:
 
 ```
 "editor.fontFamily": "Dank Mono",
