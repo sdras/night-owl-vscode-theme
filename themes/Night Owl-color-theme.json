@@ -251,7 +251,7 @@
     },
     {
       "name": "Comment",
-      "scope": "comment",
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "foreground": "#637777",
         "fontStyle": "italic"
