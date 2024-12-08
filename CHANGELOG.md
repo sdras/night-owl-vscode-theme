@@ -2,6 +2,12 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+# "2.0.2
+
+- Update readme with more versions
+- Update some highlight and illegibility across dark and light themes
+- Add VS Code badge
+
 # "2.0.1
 
 - update readme
