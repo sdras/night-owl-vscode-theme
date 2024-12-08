@@ -91,8 +91,6 @@
     "editorWhitespace.foreground": "#d9d9d9",
     "editorIndentGuide.background": "#d9d9d9",
     "editorCodeLens.foreground": "#403f53",
-    "editorBracketMatch.background": "#d3e8f8",
-    "editorBracketMatch.border": "#2AA298",
     "editorError.foreground": "#E64D49",
     "editorError.border": "#FBFBFB",
     "editorWarning.foreground": "#daaa01",
@@ -103,6 +101,8 @@
     "editorRuler.foreground": "#d9d9d9",
     "editorOverviewRuler.errorForeground": "#E64D49",
     "editorOverviewRuler.warningForeground": "#daaa01",
+    "editorInlayHint.background": "#F0F0F0",
+    "editorInlayHint.foreground": "#403f53",
     "editorWidget.background": "#F0F0F0",
     "editorWidget.border": "#d9d9d9",
     "editorSuggestWidget.background": "#F0F0F0",
@@ -156,8 +156,8 @@
     "terminal.ansiMagenta": "#d6438a",
     "terminal.ansiBrightRed": "#de3d3b",
     "terminal.ansiRed": "#de3d3b",
-    "terminal.ansiBrightWhite": "#F0F0F0",
-    "terminal.ansiWhite": "#F0F0F0",
+    "terminal.ansiBrightWhite": "#93A1A1",
+    "terminal.ansiWhite": "#93A1A1",
     "terminal.ansiBrightYellow": "#daaa01",
     "terminal.ansiYellow": "#E0AF02",
     "terminal.background": "#F6F6F6",
@@ -199,7 +199,7 @@
     },
     {
       "name": "Comment",
-      "scope": "comment",
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "foreground": "#989fb1"
       }

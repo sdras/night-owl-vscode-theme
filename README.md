@@ -2,6 +2,8 @@
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/sdras.night-owl.svg)](https://aka.ms/nightowl)
 [![Downloads](https://img.shields.io/vscode-marketplace/r/sdras.night-owl.svg)](https://aka.ms/nightowl)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/sdras.night-owl)
+
 
 A Visual Studio Code theme for the night owls out there. Fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
@@ -10,10 +12,12 @@ As of 1.0.0, there's a Light Owl Theme too! Color balanced from the Dark version
 About this theme, and some of the considerations made while creating it (as well as _how_ to create it should you want to make your own): [https://css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/)
 
 ## Night Owl
+
 ![First Screen](first-screen.jpg)
 ![Night Owl Frameworks](three-dark.jpg)
 
 ## Light Owl
+
 ![First Screen Light](light-owl-full.jpg)
 ![Light Owl Frameworks](three-light.jpg)
 
@@ -61,11 +65,13 @@ The community is awesome and has ported this theme over to other environments.
 - Slack [https://github.com/clouby/night-owl-slack](https://github.com/clouby/night-owl-slack)
 - Xcode [https://github.com/stealthanthrax/xcode-Night-Owl](https://github.com/stealthanthrax/xcode-Night-Owl)
 - Visual Studio 2019: [https://github.com/kai-oswald/NightOwl-VS-Theme](https://github.com/kai-oswald/NightOwl-VS-Theme)
+- Visual Studio 2022: [https://github.com/SumitKar01/NightOwl-Theme-VS-2022](https://github.com/SumitKar01/NightOwl-Theme-VS-2022)
 - Prism [https://github.com/SaraVieira/prism-theme-night-owl](https://github.com/SaraVieira/prism-theme-night-owl)
 - Windows Terminal [https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl](https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl)
 - Alacritty: [https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty/wiki/Color-schemes)
 - Terminology: [https://github.com/LividJava/night-owl-terminology](https://github.com/LividJava/night-owl-terminology)
-
+- Gnome Terminal: [https://github.com/edurojasr/night-owl-gnome-terminal](https://github.com/edurojasr/night-owl-gnome-terminal)
+- Kitty [https://github.com/Glazy/night-owl-kitty-theme](https://github.com/Glazy/night-owl-kitty-theme)
 
 #### Light Theme
 
@@ -74,10 +80,9 @@ The community is awesome and has ported this theme over to other environments.
 - Tilix: [https://github.com/johanhammar/light-owl-tilix](https://github.com/johanhammar/light-owl-tilix)
 - Alacritty: [https://github.com/nik27/night-owl-alacritty-theme](https://github.com/nik27/night-owl-alacritty-theme)
 
-
 ## Separate the Editor from the Sidebar
 
-This theme uses contrast sparingly so that when it's applied, it's more meaningful. This can help reduce noise and improve your ability to scan. However, some of the decisions may not work for everyone. One such decision that some disagree on is whether or not to have a separation between the editor and sidebar, and the amount of contrast. If you wish for this to have more visual signifigance, please paste this into your user settings preferences. These are my recommendations for these settings but you can use whatever colors you wish. ☺️
+This theme uses contrast sparingly so that when it's applied, it's more meaningful. This can help reduce noise and improve your ability to scan. However, some of the decisions may not work for everyone. One such decision that some disagree on is whether or not to have a separation between the editor and sidebar, and the amount of contrast. If you wish for this to have more visual significance, please paste this into your user settings preferences. These are my recommendations for these settings but you can use whatever colors you wish. ☺️
 
 ```
 "workbench.colorCustomizations": {
@@ -102,22 +107,12 @@ This theme uses contrast sparingly so that when it's applied, it's more meaningf
 
 ## Preferences shown in the preview
 
-The font in the preview image is Dank Mono, [available here](https://dank.sh/). Editor settings to activate font ligatures:
+The font in the preview image is Dank Mono, [available here](https://philpl.gumroad.com/l/dank-mono). Editor settings to activate font ligatures:
 
 ```
 "editor.fontFamily": "Dank Mono",
 "editor.fontLigatures": true,
 ```
-
-The preview image is using [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer), a really cool extension that highlights matching brackets. This can help reduce unwanted errors.
-
-I use this setting:
-
-```
-"bracketPairColorizer.forceIterationColorCycle": true,
-```
-
-![Bracket](bracket.png)
 
 ## Misc
 

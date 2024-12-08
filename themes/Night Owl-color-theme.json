@@ -99,8 +99,6 @@
     "editorIndentGuide.activeBackground": "#7E97AC",
     "editorRuler.foreground": "#5e81ce52",
     "editorCodeLens.foreground": "#5e82ceb4",
-    "editorBracketMatch.background": "#5f7e974d",
-    "editorBracketMatch.border": null,
     "editorOverviewRuler.currentContentForeground": "#7e57c2",
     "editorOverviewRuler.incomingContentForeground": "#7e57c2",
     "editorOverviewRuler.commonContentForeground": "#7e57c2",
@@ -112,6 +110,8 @@
     "editorGutter.modifiedBackground": "#e2b93d",
     "editorGutter.addedBackground": "#9CCC65",
     "editorGutter.deletedBackground": "#EF5350",
+    "editorInlayHint.background": "#0000",
+    "editorInlayHint.foreground": "#829D9D",
     "diffEditor.insertedTextBackground": "#99b76d23",
     "diffEditor.insertedTextBorder": "#c5e47833",
     "diffEditor.removedTextBackground": "#ef535033",
@@ -251,7 +251,7 @@
     },
     {
       "name": "Comment",
-      "scope": "comment",
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "foreground": "#637777",
         "fontStyle": "italic"
