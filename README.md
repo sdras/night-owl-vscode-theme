@@ -10,10 +10,12 @@ As of 1.0.0, there's a Light Owl Theme too! Color balanced from the Dark version
 About this theme, and some of the considerations made while creating it (as well as _how_ to create it should you want to make your own): [https://css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/)
 
 ## Night Owl
+
 ![First Screen](first-screen.jpg)
 ![Night Owl Frameworks](three-dark.jpg)
 
 ## Light Owl
+
 ![First Screen Light](light-owl-full.jpg)
 ![Light Owl Frameworks](three-light.jpg)
 
@@ -66,14 +68,12 @@ The community is awesome and has ported this theme over to other environments.
 - Windows Terminal [https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl](https://github.com/edurojasr/Windows_Terminal_Theme_Night_Owl)
 - Alacritty: [https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty/wiki/Color-schemes)
 
-
 #### Light Theme
 
 - iTerm2: [https://github.com/fcaldera/night-owl-light-iterm2](https://github.com/fcaldera/night-owl-light-iterm2)
 - Vim: [https://github.com/macguirerintoul/night_owl_light.vim](https://github.com/macguirerintoul/night_owl_light.vim)
 - Tilix: [https://github.com/johanhammar/light-owl-tilix](https://github.com/johanhammar/light-owl-tilix)
 - Alacritty: [https://github.com/nik27/night-owl-alacritty-theme](https://github.com/nik27/night-owl-alacritty-theme)
-
 
 ## Separate the Editor from the Sidebar
 
@@ -108,16 +108,6 @@ The font in the preview image is Dank Mono, [available here](https://philpl.gumr
 "editor.fontFamily": "Dank Mono",
 "editor.fontLigatures": true,
 ```
-
-The preview image is using [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer), a really cool extension that highlights matching brackets. This can help reduce unwanted errors.
-
-I use this setting:
-
-```
-"bracketPairColorizer.forceIterationColorCycle": true,
-```
-
-![Bracket](bracket.png)
 
 ## Misc
 

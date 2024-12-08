@@ -104,8 +104,6 @@
     "editorWhitespace.foreground": "#d9d9d9",
     "editorIndentGuide.background": "#d9d9d9",
     "editorCodeLens.foreground": "#403f53",
-    "editorBracketMatch.background": "#d3e8f8",
-    "editorBracketMatch.border": "#2AA298",
     "editorError.foreground": "#E64D49",
     "editorError.border": "#FBFBFB",
     "editorWarning.foreground": "#daaa01",
