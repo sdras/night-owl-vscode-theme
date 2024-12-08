@@ -109,6 +109,8 @@
     "editorGutter.background": "#011627",
     "editorGutter.modifiedBackground": "#e2b93d",
     "editorGutter.addedBackground": "#9CCC65",
+    "editorInlayHint.background": "#0000",
+    "editorInlayHint.foreground": "#829D9D",
     "editorGutter.deletedBackground": "#EF5350",
     "diffEditor.insertedTextBackground": "#99b76d23",
     "diffEditor.insertedTextBorder": "#c5e47833",
