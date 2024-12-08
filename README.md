@@ -1,7 +1,7 @@
 # Night Owl 🌌
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/sdras.night-owl.svg)](https://aka.ms/nightowl)
-[![Downloads](https://img.shields.io/vscode-marketplace/r/sdras.night-owl.svg)](https://aka.ms/nightowl)
+![VS Code Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/sdras.night-owl)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/sdras.night-owl)
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/sdras.night-owl)
 
 
