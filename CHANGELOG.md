@@ -2,6 +2,12 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+# "2.1.0
+
+- Update this keyword for higher contrast
+- Update line highlight background to be more obvious
+- Update readme with extension collision
+
 # "2.0.2
 
 - Update readme with more versions
