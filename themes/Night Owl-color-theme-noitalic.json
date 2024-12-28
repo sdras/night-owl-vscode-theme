@@ -689,6 +689,14 @@
       }
     },
     {
+      "name": "This Keyword JS",
+      "scope": ["variable.language.this.js"],
+      "settings": {
+        "foreground": "#41eec6",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Variable Instances",
       "scope": [
         "variable.instance",
