@@ -112,6 +112,7 @@
     "editorGutter.deletedBackground": "#EF5350",
     "editorInlayHint.background": "#0000",
     "editorInlayHint.foreground": "#829D9D",
+    "editorBracketHighlight.foreground3": "#87fab73a",
     "diffEditor.insertedTextBackground": "#99b76d23",
     "diffEditor.removedTextBackground": "#ef535033",
     "editorWidget.background": "#021320",
