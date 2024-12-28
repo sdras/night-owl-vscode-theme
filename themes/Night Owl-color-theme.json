@@ -1800,6 +1800,27 @@
       }
     },
     {
+      "name": "TextmateDeleted",
+      "scope": "markup.deleted",
+      "settings": {
+        "foreground": "#ff0000"
+      }
+    },
+    {
+      "name": "Textmate Inserted",
+      "scope": "markup.inserted",
+      "settings": {
+        "foreground": "#036A07"
+      }
+    },
+    {
+      "name": "TextmateUnderline",
+      "scope": "markup.underline",
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
       "name": "normalize font style of certain components",
       "scope": [
         "meta.property-list.css meta.property-value.css variable.other.less",
