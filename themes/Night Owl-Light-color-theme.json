@@ -1339,9 +1339,9 @@
     {
       "name": "Markdown Headings",
       "scope": [
-        "markup.heading.markdown",
-        "markup.heading.setext.1.markdown",
-        "markup.heading.setext.2.markdown"
+        "markup.heading",
+        "markup.heading.setext.1",
+        "markup.heading.setext.2"
       ],
       "settings": {
         "foreground": "#4876d6"
@@ -1349,7 +1349,7 @@
     },
     {
       "name": "Markdown Italics",
-      "scope": "markup.italic.markdown",
+      "scope": "markup.italic",
       "settings": {
         "foreground": "#994cc3",
         "fontStyle": "italic"
@@ -1357,7 +1357,7 @@
     },
     {
       "name": "Markdown Bold",
-      "scope": "markup.bold.markdown",
+      "scope": "markup.bold",
       "settings": {
         "foreground": "#4876d6",
         "fontStyle": "bold"
@@ -1365,7 +1365,7 @@
     },
     {
       "name": "Markdown Quote + others",
-      "scope": "markup.quote.markdown",
+      "scope": "markup.quote",
       "settings": {
         "foreground": "#697098",
         "fontStyle": "italic"
@@ -1373,7 +1373,7 @@
     },
     {
       "name": "Markdown Raw Code + others",
-      "scope": "markup.inline.raw.markdown",
+      "scope": "markup.inline.raw",
       "settings": {
         "foreground": "#0c969b"
       }
@@ -1381,8 +1381,8 @@
     {
       "name": "Markdown Links",
       "scope": [
-        "markup.underline.link.markdown",
-        "markup.underline.link.image.markdown"
+        "markup.underline.link",
+        "markup.underline.link.image"
       ],
       "settings": {
         "foreground": "#ff869a"
