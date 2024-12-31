@@ -131,7 +131,6 @@
     "editorMarkerNavigation.background": "#D0D0D0",
     "editorMarkerNavigationError.background": "#f76e6e",
     "editorMarkerNavigationWarning.background": "#daaa01",
-    "editorBracketHighlight.foreground3": "#87fab73a",
     // Debug
     "debugToolBar.background": "#F0F0F0",
     // Picker Group

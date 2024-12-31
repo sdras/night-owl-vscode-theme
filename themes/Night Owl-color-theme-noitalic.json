@@ -128,7 +128,6 @@
     "editorMarkerNavigation.background": "#0b2942",
     "editorMarkerNavigationError.background": "#EF5350",
     "editorMarkerNavigationWarning.background": "#FFCA28",
-    "editorBracketHighlight.foreground3": "#87fab73a",
     "peekView.border": "#5f7e97",
     "peekViewEditor.background": "#011627",
     "peekViewEditor.matchHighlightBackground": "#7e57c25a",
