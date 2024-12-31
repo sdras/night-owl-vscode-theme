@@ -2,6 +2,11 @@
 
 All notable changes to the "night-owl" extension are be documented in this file.
 
+# "2.1.1
+
+- Add Ghostty theme links
+- Revert bracket highlight, low contrast issue
+
 # "2.1.0
 
 - Update this keyword for higher contrast
