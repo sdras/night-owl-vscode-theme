@@ -72,7 +72,7 @@ The community is awesome and has ported this theme over to other environments.
 - Terminology: [https://github.com/LividJava/night-owl-terminology](https://github.com/LividJava/night-owl-terminology)
 - Gnome Terminal: [https://github.com/edurojasr/night-owl-gnome-terminal](https://github.com/edurojasr/night-owl-gnome-terminal)
 - Kitty [https://github.com/Glazy/night-owl-kitty-theme](https://github.com/Glazy/night-owl-kitty-theme)
-- Ghostty [https://https://github.com/m1yon/ghostty-night-owl](https://https://github.com/m1yon/ghostty-night-owl)
+- Ghostty [https://github.com/m1yon/ghostty-night-owl](https://github.com/m1yon/ghostty-night-owl)
 
 #### Light Theme
 
@@ -80,7 +80,7 @@ The community is awesome and has ported this theme over to other environments.
 - Vim: [https://github.com/macguirerintoul/night_owl_light.vim](https://github.com/macguirerintoul/night_owl_light.vim)
 - Tilix: [https://github.com/johanhammar/light-owl-tilix](https://github.com/johanhammar/light-owl-tilix)
 - Alacritty: [https://github.com/nik27/night-owl-alacritty-theme](https://github.com/nik27/night-owl-alacritty-theme)
-- Ghostty: [https://https://github.com/m1yon/ghostty-night-owl](https://https://github.com/m1yon/ghostty-night-owl)
+- Ghostty: [https://github.com/m1yon/ghostty-night-owl](https://github.com/m1yon/ghostty-night-owl)
 
 ## Separate the Editor from the Sidebar
 
