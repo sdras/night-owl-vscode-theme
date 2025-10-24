@@ -73,6 +73,7 @@ The community is awesome and has ported this theme over to other environments.
 - Gnome Terminal: [https://github.com/edurojasr/night-owl-gnome-terminal](https://github.com/edurojasr/night-owl-gnome-terminal)
 - Kitty [https://github.com/Glazy/night-owl-kitty-theme](https://github.com/Glazy/night-owl-kitty-theme)
 - Ghostty [https://github.com/m1yon/ghostty-night-owl](https://github.com/m1yon/ghostty-night-owl)
+- Firefox [https://github.com/scoilk/Night-Owl-for-Firefox](https://github.com/scoilk/Night-Owl-for-Firefox)
 
 #### Light Theme
 
