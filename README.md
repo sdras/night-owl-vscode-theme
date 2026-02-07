@@ -73,6 +73,7 @@ The community is awesome and has ported this theme over to other environments.
 - Gnome Terminal: [https://github.com/edurojasr/night-owl-gnome-terminal](https://github.com/edurojasr/night-owl-gnome-terminal)
 - Kitty [https://github.com/Glazy/night-owl-kitty-theme](https://github.com/Glazy/night-owl-kitty-theme)
 - Ghostty [https://github.com/m1yon/ghostty-night-owl](https://github.com/m1yon/ghostty-night-owl)
+- Logseq [https://github.com/PaulNoth/logseq-night-owl-theme](https://github.com/PaulNoth/logseq-night-owl-theme)
 
 #### Light Theme
 
@@ -81,6 +82,7 @@ The community is awesome and has ported this theme over to other environments.
 - Tilix: [https://github.com/johanhammar/light-owl-tilix](https://github.com/johanhammar/light-owl-tilix)
 - Alacritty: [https://github.com/nik27/night-owl-alacritty-theme](https://github.com/nik27/night-owl-alacritty-theme)
 - Ghostty: [https://github.com/m1yon/ghostty-night-owl](https://github.com/m1yon/ghostty-night-owl)
+- Logseq [https://github.com/PaulNoth/logseq-night-owl-theme](https://github.com/PaulNoth/logseq-night-owl-theme)
 
 ## Separate the Editor from the Sidebar
 
