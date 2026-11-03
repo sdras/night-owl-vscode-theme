@@ -66,12 +66,11 @@
     "editorGroup.dropBackground": "#7e57c273",
     "editorGroupHeader.noTabsBackground": "#011627",
     "editorGroupHeader.tabsBackground": "#011627",
+    "editorGroupHeader.connectedTabsBackground": "#01111d",
     "editorGroupHeader.tabsBorder": "#262A39",
     "tab.activeBackground": "#0b2942",
     "tab.activeForeground": "#d2dee7",
     "tab.border": "#272B3B",
-    "tab.activeBorder": "#262A39",
-    "tab.unfocusedActiveBorder": "#262A39",
     "tab.inactiveBackground": "#01111d",
     "tab.inactiveForeground": "#5f7e97",
     "tab.unfocusedActiveForeground": "#5f7e97",
@@ -208,7 +207,11 @@
     "gitDecoration.conflictingResourceForeground": "#ffeb95cc",
     "source.elm": "#5f7e97",
     "string.quoted.single.js": "#ffffff",
-    "meta.objectliteral.js": "#82AAFF"
+    "meta.objectliteral.js": "#82AAFF",
+    "modernEditorTab.activeForeground": "#d2dee7",
+    "modernEditorTab.activeBackground": "#0b2942",
+    "modernTab.activeForeground": "#d2dee7",
+    "surface.border": "#262A39"
   },
   "tokenColors": [
     {
